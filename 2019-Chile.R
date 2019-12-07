@@ -88,5 +88,6 @@
 
 PLOT 
 
-today_date = format(Sys.Date(), format="%Y-%m-%d")
-ggsave(paste0("outputs/", today_date, "plot_grouped.png"), PLOT, width = 15, height = 10, dpi = 200)
+today_date = format(Sys.Date(), format = "%Y-%m-%d")
+ggsave(paste0("outputs/", today_date, "_plot_grouped.png"), PLOT, width = 15, height = 10, dpi = 200)
+ggsave(paste0("outputs/", "LAST_plot_grouped.png"), PLOT, width = 15, height = 10, dpi = 200)
