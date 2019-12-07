@@ -14,7 +14,7 @@
 
   source("R/plot_grouped.R")
   source("R/plot_heatmap.R")
-  source("R/save_plot.R")
+  source("R/save_object.R")
 
 
 # Leer datos ----------------------------------------------------------------------------------
@@ -41,8 +41,7 @@
     filter(grepl("^[0-9]", Fecha))
   
   # Guarda datos de tabla
-  today_date = format(Sys.Date(), format = "%Y-%m-%d")
-  write_csv(DF, paste0("outputs/", today_date, "_data.csv"))
+  save_object(DF, "raw_data", "data")
   
   
   DF_plot = DF %>% 
@@ -68,10 +67,10 @@
 # PLOT 1 ------------------------------------------------------------------
 
   plot1 = plot_grouped(DF_plot) 
-  save_plot(plot1, "plot_grouped")
+  save_object(plot1, "plot_grouped", "plot")
 
 
 # PLOT heatmap ------------------------------------------------------------
 
   plot2 = plot_heatmap(DF_plot) 
-  save_plot(plot2, "plot_heatmap")
+  save_object(plot2, "plot_heatmap", "plot")
