@@ -7,4 +7,11 @@ Fuente: http://ddhh.minjusticia.gob.cl/informacion-sobre-la-situacion-del-pais-d
 Código: https://github.com/gorkang/2019-Chile
 
 
+## Evolución de eventos
+
 [![](outputs/LAST_plot_grouped.png)](outputs/LAST_plot_grouped.png)
+
+
+## Densidad de eventos por día de la semana
+
+[![](outputs/LAST_plot_heatmap.png)](outputs/LAST_plot_heatmap.png)

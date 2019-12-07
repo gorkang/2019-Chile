@@ -1,14 +1,20 @@
-# https://gist.github.com/gorkang/84cda9752a7cbe72ac179d81b04e6a2a
-
-# Archivo PDF de: 
+# Archivos PDF de: 
   # http://ddhh.minjusticia.gob.cl/informacion-sobre-la-situacion-del-pais-desde-el-19-de-octubre
-  # 2019-12-05: https://www.scribd.com/document/438470416/Datos-05-12-19#download
+
 
 # Librerias -----------------------------------------------------------------------------------
 
-  library(tidyverse)
+  library(dplyr)
+  library(forcats)
+  library(ggplot2)
+  library(purrr)
+  library(readr)
+  library(tidyr)
   library(tabulizer)
 
+  source("R/plot_grouped.R")
+  source("R/plot_heatmap.R")
+  source("R/save_plot.R")
 
 
 # Leer datos ----------------------------------------------------------------------------------
@@ -33,9 +39,15 @@
            `Ataques metro` = V10,
            `Ataques cuarteles` = V11) %>% 
     filter(grepl("^[0-9]", Fecha))
-
+  
+  # Guarda datos de tabla
+  today_date = format(Sys.Date(), format = "%Y-%m-%d")
+  write_csv(DF, paste0("outputs/", today_date, "_data.csv"))
+  
   
   DF_plot = DF %>% 
+    mutate(WeekDay = as.factor(rep(c("Sab", "Dom", "Lun", "Mar", "Mie", "Jue", "Vie"), length(Fecha)/7)),
+           WeekDay = forcats::fct_relevel(WeekDay, c("Sab", "Dom", "Lun", "Mar", "Mie", "Jue", "Vie"))) %>% 
     pivot_longer(2:11) %>% 
     mutate(value = as.numeric(value),
            Fecha = as.Date(Fecha, "%d-%m-%Y"),
@@ -52,42 +64,14 @@
                               "Eventos graves",
                               "Funcionarios lesionados", "Civiles lesionados"))
 
-  
 
-# PLOT ----------------------------------------------------------------------------------------
+# PLOT 1 ------------------------------------------------------------------
 
-  PLOT = ggplot(DF_plot, aes(Fecha, value, color = name, group = name)) +
-    geom_point() +
-    geom_line(alpha = .6) +
-    geom_smooth(se = FALSE,
-                linetype = "dashed",
-                alpha = .3) +
-    
-    # Dias con toque de queda
-    annotate(
-      "rect",
-      xmin = as.Date("2019-10-20"),
-      xmax = as.Date("2019-10-27"),
-      ymin = 0,
-      ymax = Inf,
-      alpha = .2
-    ) +
-    facet_wrap( ~ tipo, scales = "free") +
-    theme_minimal(base_size = 12) +
-    theme(
-      axis.text.x = element_text(angle = 90, hjust = 1),
-      legend.position = c(1, 0),
-      legend.justification = c(1, 0)
-    ) +
-    guides(col = guide_legend(nrow = 6, byrow = TRUE)) +
-    scale_x_date(date_labels = "%d-%b", date_breaks  = "2 day") +
-    labs(x = "",
-         y = "número",
-         caption = "Fuente: http://ddhh.minjusticia.gob.cl/informacion-sobre-la-situacion-del-pais-desde-el-19-de-octubre\nPlot por @gorkang") +
-    scale_color_brewer(palette = "Paired", name = "")
+  plot1 = plot_grouped(DF_plot) 
+  save_plot(plot1, "plot_grouped")
 
-PLOT 
 
-today_date = format(Sys.Date(), format = "%Y-%m-%d")
-ggsave(paste0("outputs/", today_date, "_plot_grouped.png"), PLOT, width = 15, height = 10, dpi = 200)
-ggsave(paste0("outputs/", "LAST_plot_grouped.png"), PLOT, width = 15, height = 10, dpi = 200)
+# PLOT heatmap ------------------------------------------------------------
+
+  plot2 = plot_heatmap(DF_plot) 
+  save_plot(plot2, "plot_heatmap")
