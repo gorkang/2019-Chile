@@ -12,7 +12,7 @@ plot_heatmap <- function(DF) {
     geom_tile(aes(fill = Nor_value), colour = "white") + 
     theme_minimal(base_size = 14) +
     theme(legend.position = "bottom") +
-    guides(fill = guide_legend(title = "Eventos (normalizado por tipo)")) +
+    guides(fill = guide_legend(title = "Eventos \n(normalizado por tipo)")) +
 
     labs(x = "",
          y = "",

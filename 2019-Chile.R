@@ -45,8 +45,8 @@
   
   
   DF_plot = DF %>% 
-    mutate(WeekDay = as.factor(rep(c("Sab", "Dom", "Lun", "Mar", "Mie", "Jue", "Vie"), length(Fecha)/7)),
-           WeekDay = forcats::fct_relevel(WeekDay, c("Sab", "Dom", "Lun", "Mar", "Mie", "Jue", "Vie"))) %>% 
+    mutate(WeekDay = as.factor(weekdays(as.Date(Fecha), abbreviate = TRUE)),
+           WeekDay = forcats::fct_relevel(WeekDay, c("sáb", "dom", "lun", "mar", "mié", "jue", "vie"))) %>% 
     pivot_longer(2:11) %>% 
     mutate(value = as.numeric(value),
            Fecha = as.Date(Fecha, "%d-%m-%Y"),
