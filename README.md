@@ -17,14 +17,14 @@ Código: https://github.com/gorkang/2019-Chile
 
 ## Evolución de eventos
 
-[![](outputs/plot/LAST_plot_grouped.png)](outputs/LAST_plot_grouped.png)
+[![](outputs/plot/LAST_plot_grouped.png)](outputs/plot/LAST_plot_grouped.png)
 
 
 ## Densidad de eventos
 
-[![](outputs/plot/LAST_plot_global_heatmap.png)](outputs/LAST_plot_global_heatmap.png)
+[![](outputs/plot/LAST_plot_global_heatmap.png)](outputs/plot/LAST_plot_global_heatmap.png)
 
 
 ## Densidad de eventos por día de la semana
 
-[![](outputs/plot/LAST_plot_heatmap.png)](outputs/LAST_plot_heatmap.png)
+[![](outputs/plot/LAST_plot_heatmap.png)](outputs/plot/LAST_plot_heatmap.png)
