@@ -13,6 +13,7 @@
   library(tabulizer)
 
   source("R/plot_grouped.R")
+  source("R/plot_global_heatmap.R")
   source("R/plot_heatmap.R")
   source("R/save_object.R")
 
@@ -74,3 +75,9 @@
 
   plot2 = plot_heatmap(DF_plot) 
   save_object(plot2, "plot_heatmap", "plot")
+
+# PLOT global heatmap ------------------------------------------------------------
+  
+  plot3 = plot_global_heatmap(DF_plot) 
+  save_object(plot3, "plot_global_heatmap", "plot")
+  
