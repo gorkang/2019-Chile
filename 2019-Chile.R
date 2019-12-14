@@ -81,3 +81,9 @@
   plot3 = plot_global_heatmap(DF_plot) 
   save_object(plot3, "plot_global_heatmap", "plot", height_plot = 5)
   
+
+# PLOT minsal -------------------------------------------------------------
+
+source("R/minsal.R")
+
+  

@@ -26,5 +26,11 @@ Código: https://github.com/gorkang/2019-Chile
 
 
 ## Densidad de eventos por día de la semana
-
+ 
 [![](outputs/plot/LAST_plot_heatmap.png)](outputs/plot/LAST_plot_heatmap.png)
+
+
+## Datos minsal
+
+[![](outputs/plot/LAST_plot_minsal.png)](outputs/plot/LAST_plot_minsal.png)
+
