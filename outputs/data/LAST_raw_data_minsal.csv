@@ -1,0 +1,753 @@
+ID,evento,name,value,ID_order
+1,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,9,47
+1,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,13,47
+1,Atenciones de UrgenciaAcumulado,RM,4.717,47
+1,Atenciones de UrgenciaAcumulado,Regiones,8.149,47
+1,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,0,47
+1,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,0,47
+1,Pacientes HospitalizadosActuales,RM,22,47
+1,Pacientes HospitalizadosActuales,Regiones,27,47
+1,Riesgovital,RM,1,47
+1,Riesgovital,Regiones,0,47
+1,Fallecidos,RM,3,47
+1,Fallecidos,Regiones,3,47
+2,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,10,46
+2,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,4,46
+2,Atenciones de UrgenciaAcumulado,RM,4.708,46
+2,Atenciones de UrgenciaAcumulado,Regiones,8.136,46
+2,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,0,46
+2,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,0,46
+2,Pacientes HospitalizadosActuales,RM,18,46
+2,Pacientes HospitalizadosActuales,Regiones,29,46
+2,Riesgovital,RM,1,46
+2,Riesgovital,Regiones,0,46
+2,Fallecidos,RM,3,46
+2,Fallecidos,Regiones,3,46
+3,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,5,45
+3,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,24,45
+3,Atenciones de UrgenciaAcumulado,RM,4.681,45
+3,Atenciones de UrgenciaAcumulado,Regiones,8.102,45
+3,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,0,45
+3,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,0,45
+3,Pacientes HospitalizadosActuales,RM,19,45
+3,Pacientes HospitalizadosActuales,Regiones,33,45
+3,Riesgovital,RM,0,45
+3,Riesgovital,Regiones,0,45
+3,Fallecidos,RM,3,45
+3,Fallecidos,Regiones,3,45
+4,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,1,44
+4,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,0,44
+4,Atenciones de UrgenciaAcumulado,RM,4.676,44
+4,Atenciones de UrgenciaAcumulado,Regiones,8.078,44
+4,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,1,44
+4,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,0,44
+4,Pacientes HospitalizadosActuales,RM,19,44
+4,Pacientes HospitalizadosActuales,Regiones,33,44
+4,Riesgovital,RM,0,44
+4,Riesgovital,Regiones,0,44
+4,Fallecidos,RM,3,44
+4,Fallecidos,Regiones,3,44
+5,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,12,43
+5,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,3,43
+5,Atenciones de UrgenciaAcumulado,RM,4.675,43
+5,Atenciones de UrgenciaAcumulado,Regiones,8.078,43
+5,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,1,43
+5,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,2,43
+5,Pacientes HospitalizadosActuales,RM,18,43
+5,Pacientes HospitalizadosActuales,Regiones,38,43
+5,Riesgovital,RM,0,43
+5,Riesgovital,Regiones,0,43
+5,Fallecidos,RM,3,43
+5,Fallecidos,Regiones,3,43
+6,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,39,42
+6,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,8,42
+6,Atenciones de UrgenciaAcumulado,RM,4.663,42
+6,Atenciones de UrgenciaAcumulado,Regiones,8.075,42
+6,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,4,42
+6,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,3,42
+6,Pacientes HospitalizadosActuales,RM,14,42
+6,Pacientes HospitalizadosActuales,Regiones,38,42
+6,Riesgovital,RM,0,42
+6,Riesgovital,Regiones,0,42
+6,Fallecidos,RM,3,42
+6,Fallecidos,Regiones,3,42
+7,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,5,41
+7,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,18,41
+7,Atenciones de UrgenciaAcumulado,RM,4.624,41
+7,Atenciones de UrgenciaAcumulado,Regiones,8.067,41
+7,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,1,41
+7,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,3,41
+7,Pacientes HospitalizadosActuales,RM,15,41
+7,Pacientes HospitalizadosActuales,Regiones,36,41
+7,Riesgovital,RM,0,41
+7,Riesgovital,Regiones,0,41
+7,Fallecidos,RM,3,41
+7,Fallecidos,Regiones,3,41
+8,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,7,40
+8,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,9,40
+8,Atenciones de UrgenciaAcumulado,RM,4.619,40
+8,Atenciones de UrgenciaAcumulado,Regiones,8.049,40
+8,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,1,40
+8,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,1,40
+8,Pacientes HospitalizadosActuales,RM,15,40
+8,Pacientes HospitalizadosActuales,Regiones,36,40
+8,Riesgovital,RM,0,40
+8,Riesgovital,Regiones,0,40
+8,Fallecidos,RM,3,40
+8,Fallecidos,Regiones,3,40
+9,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,7,39
+9,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,16,39
+9,Atenciones de UrgenciaAcumulado,RM,4.612,39
+9,Atenciones de UrgenciaAcumulado,Regiones,8.04,39
+9,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,1,39
+9,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,1,39
+9,Pacientes HospitalizadosActuales,RM,18,39
+9,Pacientes HospitalizadosActuales,Regiones,37,39
+9,Riesgovital,RM,0,39
+9,Riesgovital,Regiones,0,39
+9,Fallecidos,RM,3,39
+9,Fallecidos,Regiones,3,39
+10,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,13,38
+10,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,41,38
+10,Atenciones de UrgenciaAcumulado,RM,4.605,38
+10,Atenciones de UrgenciaAcumulado,Regiones,8.024,38
+10,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,2,38
+10,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,5,38
+10,Pacientes HospitalizadosActuales,RM,18,38
+10,Pacientes HospitalizadosActuales,Regiones,39,38
+10,Riesgovital,RM,0,38
+10,Riesgovital,Regiones,0,38
+10,Fallecidos,RM,3,38
+10,Fallecidos,Regiones,3,38
+11,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,14,37
+11,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,14,37
+11,Atenciones de UrgenciaAcumulado,RM,4.592,37
+11,Atenciones de UrgenciaAcumulado,Regiones,7.983,37
+11,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,1,37
+11,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,4,37
+11,Pacientes HospitalizadosActuales,RM,19,37
+11,Pacientes HospitalizadosActuales,Regiones,38,37
+11,Riesgovital,RM,0,37
+11,Riesgovital,Regiones,0,37
+11,Fallecidos,RM,3,37
+11,Fallecidos,Regiones,3,37
+12,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,13,36
+12,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,9,36
+12,Atenciones de UrgenciaAcumulado,RM,4.578,36
+12,Atenciones de UrgenciaAcumulado,Regiones,7.969,36
+12,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,4,36
+12,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,4,36
+12,Pacientes HospitalizadosActuales,RM,35,36
+12,Pacientes HospitalizadosActuales,Regiones,39,36
+12,Riesgovital,RM,0,36
+12,Riesgovital,Regiones,0,36
+12,Fallecidos,RM,3,36
+12,Fallecidos,Regiones,3,36
+13,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,37,35
+13,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,32,35
+13,Atenciones de UrgenciaAcumulado,RM,4.565,35
+13,Atenciones de UrgenciaAcumulado,Regiones,7.96,35
+13,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,5,35
+13,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,4,35
+13,Pacientes HospitalizadosActuales,RM,31,35
+13,Pacientes HospitalizadosActuales,Regiones,41,35
+13,Riesgovital,RM,0,35
+13,Riesgovital,Regiones,0,35
+13,Fallecidos,RM,3,35
+13,Fallecidos,Regiones,3,35
+14,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,17,34
+14,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,72,34
+14,Atenciones de UrgenciaAcumulado,RM,4.528,34
+14,Atenciones de UrgenciaAcumulado,Regiones,7.928,34
+14,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,3,34
+14,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,5,34
+14,Pacientes HospitalizadosActuales,RM,33,34
+14,Pacientes HospitalizadosActuales,Regiones,51,34
+14,Riesgovital,RM,0,34
+14,Riesgovital,Regiones,0,34
+14,Fallecidos,RM,3,34
+14,Fallecidos,Regiones,3,34
+15,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,34,33
+15,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,96,33
+15,Atenciones de UrgenciaAcumulado,RM,4.511,33
+15,Atenciones de UrgenciaAcumulado,Regiones,7.856,33
+15,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,7,33
+15,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,7,33
+15,Pacientes HospitalizadosActuales,RM,37,33
+15,Pacientes HospitalizadosActuales,Regiones,52,33
+15,Riesgovital,RM,0,33
+15,Riesgovital,Regiones,0,33
+15,Fallecidos,RM,3,33
+15,Fallecidos,Regiones,3,33
+16,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,27,32
+16,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,72,32
+16,Atenciones de UrgenciaAcumulado,RM,4.413,32
+16,Atenciones de UrgenciaAcumulado,Regiones,7.532,32
+16,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,4,32
+16,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,5,32
+16,Pacientes HospitalizadosActuales,RM,42,32
+16,Pacientes HospitalizadosActuales,Regiones,44,32
+16,Riesgovital,RM,0,32
+16,Riesgovital,Regiones,0,32
+16,Fallecidos,RM,3,32
+16,Fallecidos,Regiones,3,32
+17,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,21,31
+17,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,9,31
+17,Atenciones de UrgenciaAcumulado,RM,4.386,31
+17,Atenciones de UrgenciaAcumulado,Regiones,7.46,31
+17,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,3,31
+17,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,2,31
+17,Pacientes HospitalizadosActuales,RM,44,31
+17,Pacientes HospitalizadosActuales,Regiones,50,31
+17,Riesgovital,RM,1,31
+17,Riesgovital,Regiones,1,31
+17,Fallecidos,RM,3,31
+17,Fallecidos,Regiones,3,31
+18,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,37,30
+18,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,38,30
+18,Atenciones de UrgenciaAcumulado,RM,4.365,30
+18,Atenciones de UrgenciaAcumulado,Regiones,7.451,30
+18,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,3,30
+18,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,2,30
+18,Pacientes HospitalizadosActuales,RM,50,30
+18,Pacientes HospitalizadosActuales,Regiones,52,30
+18,Riesgovital,RM,1,30
+18,Riesgovital,Regiones,1,30
+18,Fallecidos,RM,3,30
+18,Fallecidos,Regiones,3,30
+19,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,99,29
+19,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,78,29
+19,Atenciones de UrgenciaAcumulado,RM,4.328,29
+19,Atenciones de UrgenciaAcumulado,Regiones,7.413,29
+19,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,14,29
+19,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,5,29
+19,Pacientes HospitalizadosActuales,RM,49,29
+19,Pacientes HospitalizadosActuales,Regiones,53,29
+19,Riesgovital,RM,1,29
+19,Riesgovital,Regiones,1,29
+19,Fallecidos,RM,3,29
+19,Fallecidos,Regiones,3,29
+20,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,57,28
+20,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,261,28
+20,Atenciones de UrgenciaAcumulado,RM,4.229,28
+20,Atenciones de UrgenciaAcumulado,Regiones,7.335,28
+20,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,4,28
+20,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,9,28
+20,Pacientes HospitalizadosActuales,RM,42,28
+20,Pacientes HospitalizadosActuales,Regiones,53,28
+20,Riesgovital,RM,1,28
+20,Riesgovital,Regiones,1,28
+20,Fallecidos,RM,3,28
+20,Fallecidos,Regiones,3,28
+21,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,32,27
+21,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,52,27
+21,Atenciones de UrgenciaAcumulado,RM,4.172,27
+21,Atenciones de UrgenciaAcumulado,Regiones,7.074,27
+21,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,6,27
+21,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,2,27
+21,Pacientes HospitalizadosActuales,RM,42,27
+21,Pacientes HospitalizadosActuales,Regiones,57,27
+21,Riesgovital,RM,2,27
+21,Riesgovital,Regiones,1,27
+21,Fallecidos,RM,3,27
+21,Fallecidos,Regiones,3,27
+22,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,50,26
+22,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,58,26
+22,Atenciones de UrgenciaAcumulado,RM,4.14,26
+22,Atenciones de UrgenciaAcumulado,Regiones,7.022,26
+22,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,7,26
+22,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,2,26
+22,Pacientes HospitalizadosActuales,RM,47,26
+22,Pacientes HospitalizadosActuales,Regiones,56,26
+22,Riesgovital,RM,2,26
+22,Riesgovital,Regiones,1,26
+22,Fallecidos,RM,3,26
+22,Fallecidos,Regiones,3,26
+23,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,83,25
+23,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,113,25
+23,Atenciones de UrgenciaAcumulado,RM,4.09,25
+23,Atenciones de UrgenciaAcumulado,Regiones,6.964,25
+23,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,6,25
+23,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,3,25
+23,Pacientes HospitalizadosActuales,RM,47,25
+23,Pacientes HospitalizadosActuales,Regiones,61,25
+23,Riesgovital,RM,3,25
+23,Riesgovital,Regiones,2,25
+23,Fallecidos,RM,3,25
+23,Fallecidos,Regiones,3,25
+24,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,30,24
+24,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,36,24
+24,Atenciones de UrgenciaAcumulado,RM,4.007,24
+24,Atenciones de UrgenciaAcumulado,Regiones,6.851,24
+24,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,6,24
+24,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,1,24
+24,Pacientes HospitalizadosActuales,RM,46,24
+24,Pacientes HospitalizadosActuales,Regiones,58,24
+24,Riesgovital,RM,3,24
+24,Riesgovital,Regiones,1,24
+24,Fallecidos,RM,3,24
+24,Fallecidos,Regiones,3,24
+25,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,52,23
+25,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,18,23
+25,Atenciones de UrgenciaAcumulado,RM,3.977,23
+25,Atenciones de UrgenciaAcumulado,Regiones,6.815,23
+25,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,5,23
+25,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,0,23
+25,Pacientes HospitalizadosActuales,RM,43,23
+25,Pacientes HospitalizadosActuales,Regiones,61,23
+25,Riesgovital,RM,4,23
+25,Riesgovital,Regiones,1,23
+25,Fallecidos,RM,3,23
+25,Fallecidos,Regiones,3,23
+26,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,118,22
+26,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,74,22
+26,Atenciones de UrgenciaAcumulado,RM,3.925,22
+26,Atenciones de UrgenciaAcumulado,Regiones,6.797,22
+26,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,6,22
+26,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,1,22
+26,Pacientes HospitalizadosActuales,RM,46,22
+26,Pacientes HospitalizadosActuales,Regiones,60,22
+26,Riesgovital,RM,4,22
+26,Riesgovital,Regiones,1,22
+26,Fallecidos,RM,3,22
+26,Fallecidos,Regiones,3,22
+27,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,135,21
+27,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,261,21
+27,Atenciones de UrgenciaAcumulado,RM,3.807,21
+27,Atenciones de UrgenciaAcumulado,Regiones,6.723,21
+27,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,7,21
+27,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,6,21
+27,Pacientes HospitalizadosActuales,RM,41,21
+27,Pacientes HospitalizadosActuales,Regiones,62,21
+27,Riesgovital,RM,2,21
+27,Riesgovital,Regiones,0,21
+27,Fallecidos,RM,3,21
+27,Fallecidos,Regiones,3,21
+28,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,101,20
+28,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,208,20
+28,Atenciones de UrgenciaAcumulado,RM,3.672,20
+28,Atenciones de UrgenciaAcumulado,Regiones,6.462,20
+28,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,5,20
+28,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,5,20
+28,Pacientes HospitalizadosActuales,RM,41,20
+28,Pacientes HospitalizadosActuales,Regiones,63,20
+28,Riesgovital,RM,1,20
+28,Riesgovital,Regiones,1,20
+28,Fallecidos,RM,3,20
+28,Fallecidos,Regiones,3,20
+29,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,42,19
+29,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,23,19
+29,Atenciones de UrgenciaAcumulado,RM,3.302,19
+29,Atenciones de UrgenciaAcumulado,Regiones,5.684,19
+29,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,0,19
+29,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,1,19
+29,Pacientes HospitalizadosActuales,RM,42,19
+29,Pacientes HospitalizadosActuales,Regiones,29,19
+29,Riesgovital,RM,0,19
+29,Riesgovital,Regiones,0,19
+29,Fallecidos,RM,3,19
+29,Fallecidos,Regiones,3,19
+30,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,58,18
+30,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,45,18
+30,Atenciones de UrgenciaAcumulado,RM,3.26,18
+30,Atenciones de UrgenciaAcumulado,Regiones,5.661,18
+30,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,1,18
+30,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,0,18
+30,Pacientes HospitalizadosActuales,RM,43,18
+30,Pacientes HospitalizadosActuales,Regiones,27,18
+30,Riesgovital,RM,0,18
+30,Riesgovital,Regiones,0,18
+30,Fallecidos,RM,3,18
+30,Fallecidos,Regiones,3,18
+31,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,184,17
+31,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,84,17
+31,Atenciones de UrgenciaAcumulado,RM,3.202,17
+31,Atenciones de UrgenciaAcumulado,Regiones,5.616,17
+31,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,7,17
+31,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,0,17
+31,Pacientes HospitalizadosActuales,RM,44,17
+31,Pacientes HospitalizadosActuales,Regiones,30,17
+31,Riesgovital,RM,1,17
+31,Riesgovital,Regiones,0,17
+31,Fallecidos,RM,3,17
+31,Fallecidos,Regiones,3,17
+32,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,56,16
+32,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,103,16
+32,Atenciones de UrgenciaAcumulado,RM,3.018,16
+32,Atenciones de UrgenciaAcumulado,Regiones,5.532,16
+32,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,6,16
+32,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,1,16
+32,Pacientes HospitalizadosActuales,RM,52,16
+32,Pacientes HospitalizadosActuales,Regiones,36,16
+32,Riesgovital,RM,1,16
+32,Riesgovital,Regiones,0,16
+32,Fallecidos,RM,3,16
+32,Fallecidos,Regiones,3,16
+33,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,102,15
+33,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,130,15
+33,Atenciones de UrgenciaAcumulado,RM,2.962,15
+33,Atenciones de UrgenciaAcumulado,Regiones,5.429,15
+33,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,4,15
+33,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,2,15
+33,Pacientes HospitalizadosActuales,RM,53,15
+33,Pacientes HospitalizadosActuales,Regiones,41,15
+33,Riesgovital,RM,1,15
+33,Riesgovital,Regiones,1,15
+33,Fallecidos,RM,3,15
+33,Fallecidos,Regiones,3,15
+34,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,64,14
+34,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,124,14
+34,Atenciones de UrgenciaAcumulado,RM,2.86,14
+34,Atenciones de UrgenciaAcumulado,Regiones,5.299,14
+34,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,3,14
+34,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,0,14
+34,Pacientes HospitalizadosActuales,RM,54,14
+34,Pacientes HospitalizadosActuales,Regiones,39,14
+34,Riesgovital,RM,1,14
+34,Riesgovital,Regiones,1,14
+34,Fallecidos,RM,3,14
+34,Fallecidos,Regiones,3,14
+35,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,86,13
+35,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,103,13
+35,Atenciones de UrgenciaAcumulado,RM,2.796,13
+35,Atenciones de UrgenciaAcumulado,Regiones,5.175,13
+35,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,2,13
+35,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,1,13
+35,Pacientes HospitalizadosActuales,RM,54,13
+35,Pacientes HospitalizadosActuales,Regiones,41,13
+35,Riesgovital,RM,3,13
+35,Riesgovital,Regiones,1,13
+35,Fallecidos,RM,3,13
+35,Fallecidos,Regiones,3,13
+36,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,23,12
+36,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,19,12
+36,Atenciones de UrgenciaAcumulado,RM,2.696,12
+36,Atenciones de UrgenciaAcumulado,Regiones,5.053,12
+36,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,1,12
+36,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,0,12
+36,Pacientes HospitalizadosActuales,RM,80,12
+36,Pacientes HospitalizadosActuales,Regiones,52,12
+36,Riesgovital,RM,3,12
+36,Riesgovital,Regiones,2,12
+36,Fallecidos,RM,3,12
+36,Fallecidos,Regiones,3,12
+37,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,67,11
+37,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,18,11
+37,Atenciones de UrgenciaAcumulado,RM,2.673,11
+37,Atenciones de UrgenciaAcumulado,Regiones,5.034,11
+37,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,4,11
+37,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,2,11
+37,Pacientes HospitalizadosActuales,RM,87,11
+37,Pacientes HospitalizadosActuales,Regiones,53,11
+37,Riesgovital,RM,6,11
+37,Riesgovital,Regiones,3,11
+37,Fallecidos,RM,3,11
+37,Fallecidos,Regiones,3,11
+38,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,61,10
+38,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,86,10
+38,Atenciones de UrgenciaAcumulado,RM,2.565,10
+38,Atenciones de UrgenciaAcumulado,Regiones,4.971,10
+38,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,10,10
+38,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,3,10
+38,Pacientes HospitalizadosActuales,RM,93,10
+38,Pacientes HospitalizadosActuales,Regiones,55,10
+38,Riesgovital,RM,6,10
+38,Riesgovital,Regiones,3,10
+38,Fallecidos,RM,3,10
+38,Fallecidos,Regiones,3,10
+39,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,61,9
+39,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,86,9
+39,Atenciones de UrgenciaAcumulado,RM,2.565,9
+39,Atenciones de UrgenciaAcumulado,Regiones,4.971,9
+39,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,10,9
+39,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,3,9
+39,Pacientes HospitalizadosActuales,RM,93,9
+39,Pacientes HospitalizadosActuales,Regiones,55,9
+39,Riesgovital,RM,6,9
+39,Riesgovital,Regiones,3,9
+39,Fallecidos,RM,3,9
+39,Fallecidos,Regiones,3,9
+40,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,124,8
+40,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,164,8
+40,Atenciones de UrgenciaAcumulado,RM,2.504,8
+40,Atenciones de UrgenciaAcumulado,Regiones,4.885,8
+40,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,16,8
+40,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,18,8
+40,Pacientes HospitalizadosActuales,RM,113,8
+40,Pacientes HospitalizadosActuales,Regiones,58,8
+40,Riesgovital,RM,13,8
+40,Riesgovital,Regiones,3,8
+40,Fallecidos,RM,3,8
+40,Fallecidos,Regiones,3,8
+41,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,124,7
+41,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,164,7
+41,Atenciones de UrgenciaAcumulado,RM,2.504,7
+41,Atenciones de UrgenciaAcumulado,Regiones,4.885,7
+41,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,16,7
+41,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,18,7
+41,Pacientes HospitalizadosActuales,RM,113,7
+41,Pacientes HospitalizadosActuales,Regiones,58,7
+41,Riesgovital,RM,13,7
+41,Riesgovital,Regiones,3,7
+41,Fallecidos,RM,3,7
+41,Fallecidos,Regiones,3,7
+42,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,11,6
+42,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,73,6
+42,Atenciones de UrgenciaAcumulado,RM,2.25,6
+42,Atenciones de UrgenciaAcumulado,Regiones,4.307,6
+42,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,1,6
+42,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,6,6
+42,Pacientes HospitalizadosActuales,RM,97,6
+42,Pacientes HospitalizadosActuales,Regiones,79,6
+42,Riesgovital,RM,11,6
+42,Riesgovital,Regiones,3,6
+42,Fallecidos,RM,3,6
+42,Fallecidos,Regiones,3,6
+43,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,25,5
+43,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,91,5
+43,Atenciones de UrgenciaAcumulado,RM,2.202,5
+43,Atenciones de UrgenciaAcumulado,Regiones,4.202,5
+43,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,6,5
+43,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,2,5
+43,Pacientes HospitalizadosActuales,RM,109,5
+43,Pacientes HospitalizadosActuales,Regiones,82,5
+43,Riesgovital,RM,12,5
+43,Riesgovital,Regiones,4,5
+43,Fallecidos,RM,3,5
+43,Fallecidos,Regiones,3,5
+44,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,51,4
+44,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,219,4
+44,Atenciones de UrgenciaAcumulado,RM,2.112,4
+44,Atenciones de UrgenciaAcumulado,Regiones,3.966,4
+44,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,8,4
+44,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,7,4
+44,Pacientes HospitalizadosActuales,RM,150,4
+44,Pacientes HospitalizadosActuales,Regiones,104,4
+44,Riesgovital,RM,17,4
+44,Riesgovital,Regiones,4,4
+44,Fallecidos,RM,3,4
+44,Fallecidos,Regiones,3,4
+45,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,63,3
+45,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,215,3
+45,Atenciones de UrgenciaAcumulado,RM,1.988,3
+45,Atenciones de UrgenciaAcumulado,Regiones,3.565,3
+45,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,3,3
+45,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,3,3
+45,Pacientes HospitalizadosActuales,RM,118,3
+45,Pacientes HospitalizadosActuales,Regiones,101,3
+45,Riesgovital,RM,15,3
+45,Riesgovital,Regiones,5,3
+45,Fallecidos,RM,3,3
+45,Fallecidos,Regiones,3,3
+46,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,104,2
+46,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,302,2
+46,Atenciones de UrgenciaAcumulado,RM,1.838,2
+46,Atenciones de UrgenciaAcumulado,Regiones,3.157,2
+46,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,10,2
+46,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,12,2
+46,Pacientes HospitalizadosActuales,RM,142,2
+46,Pacientes HospitalizadosActuales,Regiones,107,2
+46,Riesgovital,RM,13,2
+46,Riesgovital,Regiones,7,2
+46,Fallecidos,RM,2,2
+46,Fallecidos,Regiones,3,2
+47,"Atenciones de UrgenciaÚltimas
+24 hrs.",RM,96,1
+47,"Atenciones de UrgenciaÚltimas
+24 hrs.",Regiones,412,1
+47,Atenciones de UrgenciaAcumulado,RM,1.511,1
+47,Atenciones de UrgenciaAcumulado,Regiones,2.518,1
+47,"Pacientes HospitalizadosÚltimas
+24 hrs.",RM,14,1
+47,"Pacientes HospitalizadosÚltimas
+24 hrs.",Regiones,31,1
+47,Pacientes HospitalizadosActuales,RM,132,1
+47,Pacientes HospitalizadosActuales,Regiones,103,1
+47,Riesgovital,RM,14,1
+47,Riesgovital,Regiones,8,1
+47,Fallecidos,RM,1,1
+47,Fallecidos,Regiones,3,1
