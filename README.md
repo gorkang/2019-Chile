@@ -1,10 +1,4 @@
----
-title: Información sobre la situación de Chile desde el 19 de octubre
-output: 
-  html_document: 
-    toc: yes
----
-
+# Información sobre la situación de Chile desde el 19 de octubre
 
 Extraemos y visualizamos la informacion compartida públicamente por organismos oficiales sobre la evolución de la situación en Chile desde el 19-oct. 
 
@@ -20,7 +14,7 @@ El codigo se puede encontrar en https://github.com/gorkang/2019-Chile
 * Fuente Minsal: https://www.minsal.cl/reporte-de-lesionados-y-heridos/
 
 
-### Datos extraidos
+### Datos extraidos 
 
 * [[Descargar CSV últimos datos PDI y Carabineros](outputs/data/LAST_raw_data.csv)]
 * [[Descargar CSV últimos datos Minsal](outputs/data/LAST_raw_data_minsal.csv)]
