@@ -44,3 +44,7 @@ El codigo se puede encontrar en https://github.com/gorkang/2019-Chile
 
 [![](outputs/plot/LAST_plot_minsal.png)](outputs/plot/LAST_plot_minsal.png)
 
+
+## Densidad de eventos
+
+[![](outputs/plot/LAST_plot_minsal_heatmap.png)](outputs/plot/LAST_plot_minsal_heatmap.png)
