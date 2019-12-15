@@ -38,6 +38,7 @@
            evento = gsub("12 hrs", "24 hrs", evento),
            evento = gsub("Últimas24 hrs.", " (24h)", evento),
            evento = gsub("Actuales", " (actuales)", evento),
+           evento = gsub("Fallecidos", "Fallecidos (acumulado)", evento),
            evento = gsub("Pacientes Hospitalizados_Acumulado", "Pacientes Hospitalizados_Actuales", evento),
            evento = gsub("_", "", evento)) %>% 
     left_join(dates_extracted, by = "ID") %>% 
@@ -70,7 +71,7 @@
          y = "número",
          caption = "Fuente: https://www.minsal.cl/reporte-de-lesionados-y-heridos/ \n @gorkang")
 
-  plot_minsal
+  # plot_minsal
   
   save_object(plot_minsal, "plot_minsal", "plot")
 

@@ -7,8 +7,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 1,Pacientes Hospitalizados (actuales),Regiones,23,48,Sábado 14 de diciembre de 2019,2019-12-14,sáb
 1,Riesgovital,RM,1,48,Sábado 14 de diciembre de 2019,2019-12-14,sáb
 1,Riesgovital,Regiones,0,48,Sábado 14 de diciembre de 2019,2019-12-14,sáb
-1,Fallecidos,RM,3,48,Sábado 14 de diciembre de 2019,2019-12-14,sáb
-1,Fallecidos,Regiones,3,48,Sábado 14 de diciembre de 2019,2019-12-14,sáb
+1,Fallecidos (acumulado),RM,3,48,Sábado 14 de diciembre de 2019,2019-12-14,sáb
+1,Fallecidos (acumulado),Regiones,3,48,Sábado 14 de diciembre de 2019,2019-12-14,sáb
 2,Atenciones de Urgencia (24h),RM,9,47,Viernes 13 de diciembre de 2019,2019-12-13,vie
 2,Atenciones de Urgencia (24h),Regiones,13,47,Viernes 13 de diciembre de 2019,2019-12-13,vie
 2,Pacientes Hospitalizados (24h),RM,0,47,Viernes 13 de diciembre de 2019,2019-12-13,vie
@@ -17,8 +17,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 2,Pacientes Hospitalizados (actuales),Regiones,27,47,Viernes 13 de diciembre de 2019,2019-12-13,vie
 2,Riesgovital,RM,1,47,Viernes 13 de diciembre de 2019,2019-12-13,vie
 2,Riesgovital,Regiones,0,47,Viernes 13 de diciembre de 2019,2019-12-13,vie
-2,Fallecidos,RM,3,47,Viernes 13 de diciembre de 2019,2019-12-13,vie
-2,Fallecidos,Regiones,3,47,Viernes 13 de diciembre de 2019,2019-12-13,vie
+2,Fallecidos (acumulado),RM,3,47,Viernes 13 de diciembre de 2019,2019-12-13,vie
+2,Fallecidos (acumulado),Regiones,3,47,Viernes 13 de diciembre de 2019,2019-12-13,vie
 3,Atenciones de Urgencia (24h),RM,10,46,Jueves 12 de diciembre de 2019,2019-12-12,jue
 3,Atenciones de Urgencia (24h),Regiones,4,46,Jueves 12 de diciembre de 2019,2019-12-12,jue
 3,Pacientes Hospitalizados (24h),RM,0,46,Jueves 12 de diciembre de 2019,2019-12-12,jue
@@ -27,8 +27,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 3,Pacientes Hospitalizados (actuales),Regiones,29,46,Jueves 12 de diciembre de 2019,2019-12-12,jue
 3,Riesgovital,RM,1,46,Jueves 12 de diciembre de 2019,2019-12-12,jue
 3,Riesgovital,Regiones,0,46,Jueves 12 de diciembre de 2019,2019-12-12,jue
-3,Fallecidos,RM,3,46,Jueves 12 de diciembre de 2019,2019-12-12,jue
-3,Fallecidos,Regiones,3,46,Jueves 12 de diciembre de 2019,2019-12-12,jue
+3,Fallecidos (acumulado),RM,3,46,Jueves 12 de diciembre de 2019,2019-12-12,jue
+3,Fallecidos (acumulado),Regiones,3,46,Jueves 12 de diciembre de 2019,2019-12-12,jue
 4,Atenciones de Urgencia (24h),RM,5,45,Martes 10 de diciembre de 2019,2019-12-10,mar
 4,Atenciones de Urgencia (24h),Regiones,24,45,Martes 10 de diciembre de 2019,2019-12-10,mar
 4,Pacientes Hospitalizados (24h),RM,0,45,Martes 10 de diciembre de 2019,2019-12-10,mar
@@ -37,8 +37,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 4,Pacientes Hospitalizados (actuales),Regiones,33,45,Martes 10 de diciembre de 2019,2019-12-10,mar
 4,Riesgovital,RM,0,45,Martes 10 de diciembre de 2019,2019-12-10,mar
 4,Riesgovital,Regiones,0,45,Martes 10 de diciembre de 2019,2019-12-10,mar
-4,Fallecidos,RM,3,45,Martes 10 de diciembre de 2019,2019-12-10,mar
-4,Fallecidos,Regiones,3,45,Martes 10 de diciembre de 2019,2019-12-10,mar
+4,Fallecidos (acumulado),RM,3,45,Martes 10 de diciembre de 2019,2019-12-10,mar
+4,Fallecidos (acumulado),Regiones,3,45,Martes 10 de diciembre de 2019,2019-12-10,mar
 5,Atenciones de Urgencia (24h),RM,1,44,Lunes 09 de diciembre de 2019,2019-12-09,lun
 5,Atenciones de Urgencia (24h),Regiones,0,44,Lunes 09 de diciembre de 2019,2019-12-09,lun
 5,Pacientes Hospitalizados (24h),RM,1,44,Lunes 09 de diciembre de 2019,2019-12-09,lun
@@ -47,8 +47,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 5,Pacientes Hospitalizados (actuales),Regiones,33,44,Lunes 09 de diciembre de 2019,2019-12-09,lun
 5,Riesgovital,RM,0,44,Lunes 09 de diciembre de 2019,2019-12-09,lun
 5,Riesgovital,Regiones,0,44,Lunes 09 de diciembre de 2019,2019-12-09,lun
-5,Fallecidos,RM,3,44,Lunes 09 de diciembre de 2019,2019-12-09,lun
-5,Fallecidos,Regiones,3,44,Lunes 09 de diciembre de 2019,2019-12-09,lun
+5,Fallecidos (acumulado),RM,3,44,Lunes 09 de diciembre de 2019,2019-12-09,lun
+5,Fallecidos (acumulado),Regiones,3,44,Lunes 09 de diciembre de 2019,2019-12-09,lun
 6,Atenciones de Urgencia (24h),RM,12,43,Domingo 08 de diciembre de 2019,2019-12-08,dom
 6,Atenciones de Urgencia (24h),Regiones,3,43,Domingo 08 de diciembre de 2019,2019-12-08,dom
 6,Pacientes Hospitalizados (24h),RM,1,43,Domingo 08 de diciembre de 2019,2019-12-08,dom
@@ -57,8 +57,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 6,Pacientes Hospitalizados (actuales),Regiones,38,43,Domingo 08 de diciembre de 2019,2019-12-08,dom
 6,Riesgovital,RM,0,43,Domingo 08 de diciembre de 2019,2019-12-08,dom
 6,Riesgovital,Regiones,0,43,Domingo 08 de diciembre de 2019,2019-12-08,dom
-6,Fallecidos,RM,3,43,Domingo 08 de diciembre de 2019,2019-12-08,dom
-6,Fallecidos,Regiones,3,43,Domingo 08 de diciembre de 2019,2019-12-08,dom
+6,Fallecidos (acumulado),RM,3,43,Domingo 08 de diciembre de 2019,2019-12-08,dom
+6,Fallecidos (acumulado),Regiones,3,43,Domingo 08 de diciembre de 2019,2019-12-08,dom
 7,Atenciones de Urgencia (24h),RM,39,42,Sábado 07 de diciembre de 2019,2019-12-07,sáb
 7,Atenciones de Urgencia (24h),Regiones,8,42,Sábado 07 de diciembre de 2019,2019-12-07,sáb
 7,Pacientes Hospitalizados (24h),RM,4,42,Sábado 07 de diciembre de 2019,2019-12-07,sáb
@@ -67,8 +67,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 7,Pacientes Hospitalizados (actuales),Regiones,38,42,Sábado 07 de diciembre de 2019,2019-12-07,sáb
 7,Riesgovital,RM,0,42,Sábado 07 de diciembre de 2019,2019-12-07,sáb
 7,Riesgovital,Regiones,0,42,Sábado 07 de diciembre de 2019,2019-12-07,sáb
-7,Fallecidos,RM,3,42,Sábado 07 de diciembre de 2019,2019-12-07,sáb
-7,Fallecidos,Regiones,3,42,Sábado 07 de diciembre de 2019,2019-12-07,sáb
+7,Fallecidos (acumulado),RM,3,42,Sábado 07 de diciembre de 2019,2019-12-07,sáb
+7,Fallecidos (acumulado),Regiones,3,42,Sábado 07 de diciembre de 2019,2019-12-07,sáb
 8,Atenciones de Urgencia (24h),RM,5,41,Viernes 06 de diciembre de 2019,2019-12-06,vie
 8,Atenciones de Urgencia (24h),Regiones,18,41,Viernes 06 de diciembre de 2019,2019-12-06,vie
 8,Pacientes Hospitalizados (24h),RM,1,41,Viernes 06 de diciembre de 2019,2019-12-06,vie
@@ -77,8 +77,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 8,Pacientes Hospitalizados (actuales),Regiones,36,41,Viernes 06 de diciembre de 2019,2019-12-06,vie
 8,Riesgovital,RM,0,41,Viernes 06 de diciembre de 2019,2019-12-06,vie
 8,Riesgovital,Regiones,0,41,Viernes 06 de diciembre de 2019,2019-12-06,vie
-8,Fallecidos,RM,3,41,Viernes 06 de diciembre de 2019,2019-12-06,vie
-8,Fallecidos,Regiones,3,41,Viernes 06 de diciembre de 2019,2019-12-06,vie
+8,Fallecidos (acumulado),RM,3,41,Viernes 06 de diciembre de 2019,2019-12-06,vie
+8,Fallecidos (acumulado),Regiones,3,41,Viernes 06 de diciembre de 2019,2019-12-06,vie
 9,Atenciones de Urgencia (24h),RM,7,40,Jueves 05 de diciembre de 2019,2019-12-05,jue
 9,Atenciones de Urgencia (24h),Regiones,9,40,Jueves 05 de diciembre de 2019,2019-12-05,jue
 9,Pacientes Hospitalizados (24h),RM,1,40,Jueves 05 de diciembre de 2019,2019-12-05,jue
@@ -87,8 +87,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 9,Pacientes Hospitalizados (actuales),Regiones,36,40,Jueves 05 de diciembre de 2019,2019-12-05,jue
 9,Riesgovital,RM,0,40,Jueves 05 de diciembre de 2019,2019-12-05,jue
 9,Riesgovital,Regiones,0,40,Jueves 05 de diciembre de 2019,2019-12-05,jue
-9,Fallecidos,RM,3,40,Jueves 05 de diciembre de 2019,2019-12-05,jue
-9,Fallecidos,Regiones,3,40,Jueves 05 de diciembre de 2019,2019-12-05,jue
+9,Fallecidos (acumulado),RM,3,40,Jueves 05 de diciembre de 2019,2019-12-05,jue
+9,Fallecidos (acumulado),Regiones,3,40,Jueves 05 de diciembre de 2019,2019-12-05,jue
 10,Atenciones de Urgencia (24h),RM,7,39,Miércoles 04 de diciembre de 2019,2019-12-04,mié
 10,Atenciones de Urgencia (24h),Regiones,16,39,Miércoles 04 de diciembre de 2019,2019-12-04,mié
 10,Pacientes Hospitalizados (24h),RM,1,39,Miércoles 04 de diciembre de 2019,2019-12-04,mié
@@ -97,8 +97,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 10,Pacientes Hospitalizados (actuales),Regiones,37,39,Miércoles 04 de diciembre de 2019,2019-12-04,mié
 10,Riesgovital,RM,0,39,Miércoles 04 de diciembre de 2019,2019-12-04,mié
 10,Riesgovital,Regiones,0,39,Miércoles 04 de diciembre de 2019,2019-12-04,mié
-10,Fallecidos,RM,3,39,Miércoles 04 de diciembre de 2019,2019-12-04,mié
-10,Fallecidos,Regiones,3,39,Miércoles 04 de diciembre de 2019,2019-12-04,mié
+10,Fallecidos (acumulado),RM,3,39,Miércoles 04 de diciembre de 2019,2019-12-04,mié
+10,Fallecidos (acumulado),Regiones,3,39,Miércoles 04 de diciembre de 2019,2019-12-04,mié
 11,Atenciones de Urgencia (24h),RM,13,38,Martes 03 de diciembre de 2019,2019-12-03,mar
 11,Atenciones de Urgencia (24h),Regiones,41,38,Martes 03 de diciembre de 2019,2019-12-03,mar
 11,Pacientes Hospitalizados (24h),RM,2,38,Martes 03 de diciembre de 2019,2019-12-03,mar
@@ -107,8 +107,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 11,Pacientes Hospitalizados (actuales),Regiones,39,38,Martes 03 de diciembre de 2019,2019-12-03,mar
 11,Riesgovital,RM,0,38,Martes 03 de diciembre de 2019,2019-12-03,mar
 11,Riesgovital,Regiones,0,38,Martes 03 de diciembre de 2019,2019-12-03,mar
-11,Fallecidos,RM,3,38,Martes 03 de diciembre de 2019,2019-12-03,mar
-11,Fallecidos,Regiones,3,38,Martes 03 de diciembre de 2019,2019-12-03,mar
+11,Fallecidos (acumulado),RM,3,38,Martes 03 de diciembre de 2019,2019-12-03,mar
+11,Fallecidos (acumulado),Regiones,3,38,Martes 03 de diciembre de 2019,2019-12-03,mar
 12,Atenciones de Urgencia (24h),RM,14,37,Lunes 02 de diciembre de 2019,2019-12-02,lun
 12,Atenciones de Urgencia (24h),Regiones,14,37,Lunes 02 de diciembre de 2019,2019-12-02,lun
 12,Pacientes Hospitalizados (24h),RM,1,37,Lunes 02 de diciembre de 2019,2019-12-02,lun
@@ -117,8 +117,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 12,Pacientes Hospitalizados (actuales),Regiones,38,37,Lunes 02 de diciembre de 2019,2019-12-02,lun
 12,Riesgovital,RM,0,37,Lunes 02 de diciembre de 2019,2019-12-02,lun
 12,Riesgovital,Regiones,0,37,Lunes 02 de diciembre de 2019,2019-12-02,lun
-12,Fallecidos,RM,3,37,Lunes 02 de diciembre de 2019,2019-12-02,lun
-12,Fallecidos,Regiones,3,37,Lunes 02 de diciembre de 2019,2019-12-02,lun
+12,Fallecidos (acumulado),RM,3,37,Lunes 02 de diciembre de 2019,2019-12-02,lun
+12,Fallecidos (acumulado),Regiones,3,37,Lunes 02 de diciembre de 2019,2019-12-02,lun
 13,Atenciones de Urgencia (24h),RM,13,36,Domingo 01 de diciembre de 2019,2019-12-01,dom
 13,Atenciones de Urgencia (24h),Regiones,9,36,Domingo 01 de diciembre de 2019,2019-12-01,dom
 13,Pacientes Hospitalizados (24h),RM,4,36,Domingo 01 de diciembre de 2019,2019-12-01,dom
@@ -127,8 +127,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 13,Pacientes Hospitalizados (actuales),Regiones,39,36,Domingo 01 de diciembre de 2019,2019-12-01,dom
 13,Riesgovital,RM,0,36,Domingo 01 de diciembre de 2019,2019-12-01,dom
 13,Riesgovital,Regiones,0,36,Domingo 01 de diciembre de 2019,2019-12-01,dom
-13,Fallecidos,RM,3,36,Domingo 01 de diciembre de 2019,2019-12-01,dom
-13,Fallecidos,Regiones,3,36,Domingo 01 de diciembre de 2019,2019-12-01,dom
+13,Fallecidos (acumulado),RM,3,36,Domingo 01 de diciembre de 2019,2019-12-01,dom
+13,Fallecidos (acumulado),Regiones,3,36,Domingo 01 de diciembre de 2019,2019-12-01,dom
 14,Atenciones de Urgencia (24h),RM,37,35,Sábado 30 de noviembre de 2019,2019-11-30,sáb
 14,Atenciones de Urgencia (24h),Regiones,32,35,Sábado 30 de noviembre de 2019,2019-11-30,sáb
 14,Pacientes Hospitalizados (24h),RM,5,35,Sábado 30 de noviembre de 2019,2019-11-30,sáb
@@ -137,8 +137,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 14,Pacientes Hospitalizados (actuales),Regiones,41,35,Sábado 30 de noviembre de 2019,2019-11-30,sáb
 14,Riesgovital,RM,0,35,Sábado 30 de noviembre de 2019,2019-11-30,sáb
 14,Riesgovital,Regiones,0,35,Sábado 30 de noviembre de 2019,2019-11-30,sáb
-14,Fallecidos,RM,3,35,Sábado 30 de noviembre de 2019,2019-11-30,sáb
-14,Fallecidos,Regiones,3,35,Sábado 30 de noviembre de 2019,2019-11-30,sáb
+14,Fallecidos (acumulado),RM,3,35,Sábado 30 de noviembre de 2019,2019-11-30,sáb
+14,Fallecidos (acumulado),Regiones,3,35,Sábado 30 de noviembre de 2019,2019-11-30,sáb
 15,Atenciones de Urgencia (24h),RM,17,34,Viernes 29 de noviembre de 2019,2019-11-29,vie
 15,Atenciones de Urgencia (24h),Regiones,72,34,Viernes 29 de noviembre de 2019,2019-11-29,vie
 15,Pacientes Hospitalizados (24h),RM,3,34,Viernes 29 de noviembre de 2019,2019-11-29,vie
@@ -147,8 +147,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 15,Pacientes Hospitalizados (actuales),Regiones,51,34,Viernes 29 de noviembre de 2019,2019-11-29,vie
 15,Riesgovital,RM,0,34,Viernes 29 de noviembre de 2019,2019-11-29,vie
 15,Riesgovital,Regiones,0,34,Viernes 29 de noviembre de 2019,2019-11-29,vie
-15,Fallecidos,RM,3,34,Viernes 29 de noviembre de 2019,2019-11-29,vie
-15,Fallecidos,Regiones,3,34,Viernes 29 de noviembre de 2019,2019-11-29,vie
+15,Fallecidos (acumulado),RM,3,34,Viernes 29 de noviembre de 2019,2019-11-29,vie
+15,Fallecidos (acumulado),Regiones,3,34,Viernes 29 de noviembre de 2019,2019-11-29,vie
 16,Atenciones de Urgencia (24h),RM,34,33,Jueves 28 de noviembre de 2019,2019-11-28,jue
 16,Atenciones de Urgencia (24h),Regiones,96,33,Jueves 28 de noviembre de 2019,2019-11-28,jue
 16,Pacientes Hospitalizados (24h),RM,7,33,Jueves 28 de noviembre de 2019,2019-11-28,jue
@@ -157,8 +157,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 16,Pacientes Hospitalizados (actuales),Regiones,52,33,Jueves 28 de noviembre de 2019,2019-11-28,jue
 16,Riesgovital,RM,0,33,Jueves 28 de noviembre de 2019,2019-11-28,jue
 16,Riesgovital,Regiones,0,33,Jueves 28 de noviembre de 2019,2019-11-28,jue
-16,Fallecidos,RM,3,33,Jueves 28 de noviembre de 2019,2019-11-28,jue
-16,Fallecidos,Regiones,3,33,Jueves 28 de noviembre de 2019,2019-11-28,jue
+16,Fallecidos (acumulado),RM,3,33,Jueves 28 de noviembre de 2019,2019-11-28,jue
+16,Fallecidos (acumulado),Regiones,3,33,Jueves 28 de noviembre de 2019,2019-11-28,jue
 17,Atenciones de Urgencia (24h),RM,27,32,Martes 26 de noviembre de 2019,2019-11-26,mar
 17,Atenciones de Urgencia (24h),Regiones,72,32,Martes 26 de noviembre de 2019,2019-11-26,mar
 17,Pacientes Hospitalizados (24h),RM,4,32,Martes 26 de noviembre de 2019,2019-11-26,mar
@@ -167,8 +167,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 17,Pacientes Hospitalizados (actuales),Regiones,44,32,Martes 26 de noviembre de 2019,2019-11-26,mar
 17,Riesgovital,RM,0,32,Martes 26 de noviembre de 2019,2019-11-26,mar
 17,Riesgovital,Regiones,0,32,Martes 26 de noviembre de 2019,2019-11-26,mar
-17,Fallecidos,RM,3,32,Martes 26 de noviembre de 2019,2019-11-26,mar
-17,Fallecidos,Regiones,3,32,Martes 26 de noviembre de 2019,2019-11-26,mar
+17,Fallecidos (acumulado),RM,3,32,Martes 26 de noviembre de 2019,2019-11-26,mar
+17,Fallecidos (acumulado),Regiones,3,32,Martes 26 de noviembre de 2019,2019-11-26,mar
 18,Atenciones de Urgencia (24h),RM,21,31,Lunes 25 de noviembre de 2019,2019-11-25,lun
 18,Atenciones de Urgencia (24h),Regiones,9,31,Lunes 25 de noviembre de 2019,2019-11-25,lun
 18,Pacientes Hospitalizados (24h),RM,3,31,Lunes 25 de noviembre de 2019,2019-11-25,lun
@@ -177,8 +177,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 18,Pacientes Hospitalizados (actuales),Regiones,50,31,Lunes 25 de noviembre de 2019,2019-11-25,lun
 18,Riesgovital,RM,1,31,Lunes 25 de noviembre de 2019,2019-11-25,lun
 18,Riesgovital,Regiones,1,31,Lunes 25 de noviembre de 2019,2019-11-25,lun
-18,Fallecidos,RM,3,31,Lunes 25 de noviembre de 2019,2019-11-25,lun
-18,Fallecidos,Regiones,3,31,Lunes 25 de noviembre de 2019,2019-11-25,lun
+18,Fallecidos (acumulado),RM,3,31,Lunes 25 de noviembre de 2019,2019-11-25,lun
+18,Fallecidos (acumulado),Regiones,3,31,Lunes 25 de noviembre de 2019,2019-11-25,lun
 19,Atenciones de Urgencia (24h),RM,37,30,Domingo 24 de noviembre de 2019,2019-11-24,dom
 19,Atenciones de Urgencia (24h),Regiones,38,30,Domingo 24 de noviembre de 2019,2019-11-24,dom
 19,Pacientes Hospitalizados (24h),RM,3,30,Domingo 24 de noviembre de 2019,2019-11-24,dom
@@ -187,8 +187,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 19,Pacientes Hospitalizados (actuales),Regiones,52,30,Domingo 24 de noviembre de 2019,2019-11-24,dom
 19,Riesgovital,RM,1,30,Domingo 24 de noviembre de 2019,2019-11-24,dom
 19,Riesgovital,Regiones,1,30,Domingo 24 de noviembre de 2019,2019-11-24,dom
-19,Fallecidos,RM,3,30,Domingo 24 de noviembre de 2019,2019-11-24,dom
-19,Fallecidos,Regiones,3,30,Domingo 24 de noviembre de 2019,2019-11-24,dom
+19,Fallecidos (acumulado),RM,3,30,Domingo 24 de noviembre de 2019,2019-11-24,dom
+19,Fallecidos (acumulado),Regiones,3,30,Domingo 24 de noviembre de 2019,2019-11-24,dom
 20,Atenciones de Urgencia (24h),RM,99,29,Sábado 23 de noviembre de 2019,2019-11-23,sáb
 20,Atenciones de Urgencia (24h),Regiones,78,29,Sábado 23 de noviembre de 2019,2019-11-23,sáb
 20,Pacientes Hospitalizados (24h),RM,14,29,Sábado 23 de noviembre de 2019,2019-11-23,sáb
@@ -197,8 +197,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 20,Pacientes Hospitalizados (actuales),Regiones,53,29,Sábado 23 de noviembre de 2019,2019-11-23,sáb
 20,Riesgovital,RM,1,29,Sábado 23 de noviembre de 2019,2019-11-23,sáb
 20,Riesgovital,Regiones,1,29,Sábado 23 de noviembre de 2019,2019-11-23,sáb
-20,Fallecidos,RM,3,29,Sábado 23 de noviembre de 2019,2019-11-23,sáb
-20,Fallecidos,Regiones,3,29,Sábado 23 de noviembre de 2019,2019-11-23,sáb
+20,Fallecidos (acumulado),RM,3,29,Sábado 23 de noviembre de 2019,2019-11-23,sáb
+20,Fallecidos (acumulado),Regiones,3,29,Sábado 23 de noviembre de 2019,2019-11-23,sáb
 21,Atenciones de Urgencia (24h),RM,57,28,Viernes 22 de noviembre de 2019,2019-11-22,vie
 21,Atenciones de Urgencia (24h),Regiones,261,28,Viernes 22 de noviembre de 2019,2019-11-22,vie
 21,Pacientes Hospitalizados (24h),RM,4,28,Viernes 22 de noviembre de 2019,2019-11-22,vie
@@ -207,8 +207,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 21,Pacientes Hospitalizados (actuales),Regiones,53,28,Viernes 22 de noviembre de 2019,2019-11-22,vie
 21,Riesgovital,RM,1,28,Viernes 22 de noviembre de 2019,2019-11-22,vie
 21,Riesgovital,Regiones,1,28,Viernes 22 de noviembre de 2019,2019-11-22,vie
-21,Fallecidos,RM,3,28,Viernes 22 de noviembre de 2019,2019-11-22,vie
-21,Fallecidos,Regiones,3,28,Viernes 22 de noviembre de 2019,2019-11-22,vie
+21,Fallecidos (acumulado),RM,3,28,Viernes 22 de noviembre de 2019,2019-11-22,vie
+21,Fallecidos (acumulado),Regiones,3,28,Viernes 22 de noviembre de 2019,2019-11-22,vie
 22,Atenciones de Urgencia (24h),RM,32,27,Jueves 21 de noviembre de 2019,2019-11-21,jue
 22,Atenciones de Urgencia (24h),Regiones,52,27,Jueves 21 de noviembre de 2019,2019-11-21,jue
 22,Pacientes Hospitalizados (24h),RM,6,27,Jueves 21 de noviembre de 2019,2019-11-21,jue
@@ -217,8 +217,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 22,Pacientes Hospitalizados (actuales),Regiones,57,27,Jueves 21 de noviembre de 2019,2019-11-21,jue
 22,Riesgovital,RM,2,27,Jueves 21 de noviembre de 2019,2019-11-21,jue
 22,Riesgovital,Regiones,1,27,Jueves 21 de noviembre de 2019,2019-11-21,jue
-22,Fallecidos,RM,3,27,Jueves 21 de noviembre de 2019,2019-11-21,jue
-22,Fallecidos,Regiones,3,27,Jueves 21 de noviembre de 2019,2019-11-21,jue
+22,Fallecidos (acumulado),RM,3,27,Jueves 21 de noviembre de 2019,2019-11-21,jue
+22,Fallecidos (acumulado),Regiones,3,27,Jueves 21 de noviembre de 2019,2019-11-21,jue
 23,Atenciones de Urgencia (24h),RM,50,26,Miércoles 20 de noviembre de 2019,2019-11-20,mié
 23,Atenciones de Urgencia (24h),Regiones,58,26,Miércoles 20 de noviembre de 2019,2019-11-20,mié
 23,Pacientes Hospitalizados (24h),RM,7,26,Miércoles 20 de noviembre de 2019,2019-11-20,mié
@@ -227,8 +227,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 23,Pacientes Hospitalizados (actuales),Regiones,56,26,Miércoles 20 de noviembre de 2019,2019-11-20,mié
 23,Riesgovital,RM,2,26,Miércoles 20 de noviembre de 2019,2019-11-20,mié
 23,Riesgovital,Regiones,1,26,Miércoles 20 de noviembre de 2019,2019-11-20,mié
-23,Fallecidos,RM,3,26,Miércoles 20 de noviembre de 2019,2019-11-20,mié
-23,Fallecidos,Regiones,3,26,Miércoles 20 de noviembre de 2019,2019-11-20,mié
+23,Fallecidos (acumulado),RM,3,26,Miércoles 20 de noviembre de 2019,2019-11-20,mié
+23,Fallecidos (acumulado),Regiones,3,26,Miércoles 20 de noviembre de 2019,2019-11-20,mié
 24,Atenciones de Urgencia (24h),RM,83,25,Martes 19 de noviembre de 2019,2019-11-19,mar
 24,Atenciones de Urgencia (24h),Regiones,113,25,Martes 19 de noviembre de 2019,2019-11-19,mar
 24,Pacientes Hospitalizados (24h),RM,6,25,Martes 19 de noviembre de 2019,2019-11-19,mar
@@ -237,8 +237,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 24,Pacientes Hospitalizados (actuales),Regiones,61,25,Martes 19 de noviembre de 2019,2019-11-19,mar
 24,Riesgovital,RM,3,25,Martes 19 de noviembre de 2019,2019-11-19,mar
 24,Riesgovital,Regiones,2,25,Martes 19 de noviembre de 2019,2019-11-19,mar
-24,Fallecidos,RM,3,25,Martes 19 de noviembre de 2019,2019-11-19,mar
-24,Fallecidos,Regiones,3,25,Martes 19 de noviembre de 2019,2019-11-19,mar
+24,Fallecidos (acumulado),RM,3,25,Martes 19 de noviembre de 2019,2019-11-19,mar
+24,Fallecidos (acumulado),Regiones,3,25,Martes 19 de noviembre de 2019,2019-11-19,mar
 25,Atenciones de Urgencia (24h),RM,30,24,Lunes 18 de noviembre de 2019,2019-11-18,lun
 25,Atenciones de Urgencia (24h),Regiones,36,24,Lunes 18 de noviembre de 2019,2019-11-18,lun
 25,Pacientes Hospitalizados (24h),RM,6,24,Lunes 18 de noviembre de 2019,2019-11-18,lun
@@ -247,8 +247,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 25,Pacientes Hospitalizados (actuales),Regiones,58,24,Lunes 18 de noviembre de 2019,2019-11-18,lun
 25,Riesgovital,RM,3,24,Lunes 18 de noviembre de 2019,2019-11-18,lun
 25,Riesgovital,Regiones,1,24,Lunes 18 de noviembre de 2019,2019-11-18,lun
-25,Fallecidos,RM,3,24,Lunes 18 de noviembre de 2019,2019-11-18,lun
-25,Fallecidos,Regiones,3,24,Lunes 18 de noviembre de 2019,2019-11-18,lun
+25,Fallecidos (acumulado),RM,3,24,Lunes 18 de noviembre de 2019,2019-11-18,lun
+25,Fallecidos (acumulado),Regiones,3,24,Lunes 18 de noviembre de 2019,2019-11-18,lun
 26,Atenciones de Urgencia (24h),RM,52,23,Domingo 17 de noviembre de 2019,2019-11-17,dom
 26,Atenciones de Urgencia (24h),Regiones,18,23,Domingo 17 de noviembre de 2019,2019-11-17,dom
 26,Pacientes Hospitalizados (24h),RM,5,23,Domingo 17 de noviembre de 2019,2019-11-17,dom
@@ -257,8 +257,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 26,Pacientes Hospitalizados (actuales),Regiones,61,23,Domingo 17 de noviembre de 2019,2019-11-17,dom
 26,Riesgovital,RM,4,23,Domingo 17 de noviembre de 2019,2019-11-17,dom
 26,Riesgovital,Regiones,1,23,Domingo 17 de noviembre de 2019,2019-11-17,dom
-26,Fallecidos,RM,3,23,Domingo 17 de noviembre de 2019,2019-11-17,dom
-26,Fallecidos,Regiones,3,23,Domingo 17 de noviembre de 2019,2019-11-17,dom
+26,Fallecidos (acumulado),RM,3,23,Domingo 17 de noviembre de 2019,2019-11-17,dom
+26,Fallecidos (acumulado),Regiones,3,23,Domingo 17 de noviembre de 2019,2019-11-17,dom
 27,Atenciones de Urgencia (24h),RM,118,22,Sábado 16 de noviembre de 2019,2019-11-16,sáb
 27,Atenciones de Urgencia (24h),Regiones,74,22,Sábado 16 de noviembre de 2019,2019-11-16,sáb
 27,Pacientes Hospitalizados (24h),RM,6,22,Sábado 16 de noviembre de 2019,2019-11-16,sáb
@@ -267,8 +267,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 27,Pacientes Hospitalizados (actuales),Regiones,60,22,Sábado 16 de noviembre de 2019,2019-11-16,sáb
 27,Riesgovital,RM,4,22,Sábado 16 de noviembre de 2019,2019-11-16,sáb
 27,Riesgovital,Regiones,1,22,Sábado 16 de noviembre de 2019,2019-11-16,sáb
-27,Fallecidos,RM,3,22,Sábado 16 de noviembre de 2019,2019-11-16,sáb
-27,Fallecidos,Regiones,3,22,Sábado 16 de noviembre de 2019,2019-11-16,sáb
+27,Fallecidos (acumulado),RM,3,22,Sábado 16 de noviembre de 2019,2019-11-16,sáb
+27,Fallecidos (acumulado),Regiones,3,22,Sábado 16 de noviembre de 2019,2019-11-16,sáb
 28,Atenciones de Urgencia (24h),RM,135,21,Viernes 15 de noviembre de 2019,2019-11-15,vie
 28,Atenciones de Urgencia (24h),Regiones,261,21,Viernes 15 de noviembre de 2019,2019-11-15,vie
 28,Pacientes Hospitalizados (24h),RM,7,21,Viernes 15 de noviembre de 2019,2019-11-15,vie
@@ -277,8 +277,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 28,Pacientes Hospitalizados (actuales),Regiones,62,21,Viernes 15 de noviembre de 2019,2019-11-15,vie
 28,Riesgovital,RM,2,21,Viernes 15 de noviembre de 2019,2019-11-15,vie
 28,Riesgovital,Regiones,0,21,Viernes 15 de noviembre de 2019,2019-11-15,vie
-28,Fallecidos,RM,3,21,Viernes 15 de noviembre de 2019,2019-11-15,vie
-28,Fallecidos,Regiones,3,21,Viernes 15 de noviembre de 2019,2019-11-15,vie
+28,Fallecidos (acumulado),RM,3,21,Viernes 15 de noviembre de 2019,2019-11-15,vie
+28,Fallecidos (acumulado),Regiones,3,21,Viernes 15 de noviembre de 2019,2019-11-15,vie
 29,Atenciones de Urgencia (24h),RM,101,20,Jueves 14 de noviembre de 2019,2019-11-14,jue
 29,Atenciones de Urgencia (24h),Regiones,208,20,Jueves 14 de noviembre de 2019,2019-11-14,jue
 29,Pacientes Hospitalizados (24h),RM,5,20,Jueves 14 de noviembre de 2019,2019-11-14,jue
@@ -287,8 +287,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 29,Pacientes Hospitalizados (actuales),Regiones,63,20,Jueves 14 de noviembre de 2019,2019-11-14,jue
 29,Riesgovital,RM,1,20,Jueves 14 de noviembre de 2019,2019-11-14,jue
 29,Riesgovital,Regiones,1,20,Jueves 14 de noviembre de 2019,2019-11-14,jue
-29,Fallecidos,RM,3,20,Jueves 14 de noviembre de 2019,2019-11-14,jue
-29,Fallecidos,Regiones,3,20,Jueves 14 de noviembre de 2019,2019-11-14,jue
+29,Fallecidos (acumulado),RM,3,20,Jueves 14 de noviembre de 2019,2019-11-14,jue
+29,Fallecidos (acumulado),Regiones,3,20,Jueves 14 de noviembre de 2019,2019-11-14,jue
 30,Atenciones de Urgencia (24h),RM,42,19,Lunes 11 de noviembre de 2019,2019-11-11,lun
 30,Atenciones de Urgencia (24h),Regiones,23,19,Lunes 11 de noviembre de 2019,2019-11-11,lun
 30,Pacientes Hospitalizados (24h),RM,0,19,Lunes 11 de noviembre de 2019,2019-11-11,lun
@@ -297,8 +297,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 30,Pacientes Hospitalizados (actuales),Regiones,29,19,Lunes 11 de noviembre de 2019,2019-11-11,lun
 30,Riesgovital,RM,0,19,Lunes 11 de noviembre de 2019,2019-11-11,lun
 30,Riesgovital,Regiones,0,19,Lunes 11 de noviembre de 2019,2019-11-11,lun
-30,Fallecidos,RM,3,19,Lunes 11 de noviembre de 2019,2019-11-11,lun
-30,Fallecidos,Regiones,3,19,Lunes 11 de noviembre de 2019,2019-11-11,lun
+30,Fallecidos (acumulado),RM,3,19,Lunes 11 de noviembre de 2019,2019-11-11,lun
+30,Fallecidos (acumulado),Regiones,3,19,Lunes 11 de noviembre de 2019,2019-11-11,lun
 31,Atenciones de Urgencia (24h),RM,58,18,Domingo 10 de noviembre de 2019,2019-11-10,dom
 31,Atenciones de Urgencia (24h),Regiones,45,18,Domingo 10 de noviembre de 2019,2019-11-10,dom
 31,Pacientes Hospitalizados (24h),RM,1,18,Domingo 10 de noviembre de 2019,2019-11-10,dom
@@ -307,8 +307,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 31,Pacientes Hospitalizados (actuales),Regiones,27,18,Domingo 10 de noviembre de 2019,2019-11-10,dom
 31,Riesgovital,RM,0,18,Domingo 10 de noviembre de 2019,2019-11-10,dom
 31,Riesgovital,Regiones,0,18,Domingo 10 de noviembre de 2019,2019-11-10,dom
-31,Fallecidos,RM,3,18,Domingo 10 de noviembre de 2019,2019-11-10,dom
-31,Fallecidos,Regiones,3,18,Domingo 10 de noviembre de 2019,2019-11-10,dom
+31,Fallecidos (acumulado),RM,3,18,Domingo 10 de noviembre de 2019,2019-11-10,dom
+31,Fallecidos (acumulado),Regiones,3,18,Domingo 10 de noviembre de 2019,2019-11-10,dom
 32,Atenciones de Urgencia (24h),RM,184,17,Sábado 09 de noviembre de 2019,2019-11-09,sáb
 32,Atenciones de Urgencia (24h),Regiones,84,17,Sábado 09 de noviembre de 2019,2019-11-09,sáb
 32,Pacientes Hospitalizados (24h),RM,7,17,Sábado 09 de noviembre de 2019,2019-11-09,sáb
@@ -317,8 +317,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 32,Pacientes Hospitalizados (actuales),Regiones,30,17,Sábado 09 de noviembre de 2019,2019-11-09,sáb
 32,Riesgovital,RM,1,17,Sábado 09 de noviembre de 2019,2019-11-09,sáb
 32,Riesgovital,Regiones,0,17,Sábado 09 de noviembre de 2019,2019-11-09,sáb
-32,Fallecidos,RM,3,17,Sábado 09 de noviembre de 2019,2019-11-09,sáb
-32,Fallecidos,Regiones,3,17,Sábado 09 de noviembre de 2019,2019-11-09,sáb
+32,Fallecidos (acumulado),RM,3,17,Sábado 09 de noviembre de 2019,2019-11-09,sáb
+32,Fallecidos (acumulado),Regiones,3,17,Sábado 09 de noviembre de 2019,2019-11-09,sáb
 33,Atenciones de Urgencia (24h),RM,56,16,Viernes 08 de noviembre de 2019,2019-11-08,vie
 33,Atenciones de Urgencia (24h),Regiones,103,16,Viernes 08 de noviembre de 2019,2019-11-08,vie
 33,Pacientes Hospitalizados (24h),RM,6,16,Viernes 08 de noviembre de 2019,2019-11-08,vie
@@ -327,8 +327,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 33,Pacientes Hospitalizados (actuales),Regiones,36,16,Viernes 08 de noviembre de 2019,2019-11-08,vie
 33,Riesgovital,RM,1,16,Viernes 08 de noviembre de 2019,2019-11-08,vie
 33,Riesgovital,Regiones,0,16,Viernes 08 de noviembre de 2019,2019-11-08,vie
-33,Fallecidos,RM,3,16,Viernes 08 de noviembre de 2019,2019-11-08,vie
-33,Fallecidos,Regiones,3,16,Viernes 08 de noviembre de 2019,2019-11-08,vie
+33,Fallecidos (acumulado),RM,3,16,Viernes 08 de noviembre de 2019,2019-11-08,vie
+33,Fallecidos (acumulado),Regiones,3,16,Viernes 08 de noviembre de 2019,2019-11-08,vie
 34,Atenciones de Urgencia (24h),RM,102,15,Jueves 07 de noviembre de 2019,2019-11-07,jue
 34,Atenciones de Urgencia (24h),Regiones,130,15,Jueves 07 de noviembre de 2019,2019-11-07,jue
 34,Pacientes Hospitalizados (24h),RM,4,15,Jueves 07 de noviembre de 2019,2019-11-07,jue
@@ -337,8 +337,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 34,Pacientes Hospitalizados (actuales),Regiones,41,15,Jueves 07 de noviembre de 2019,2019-11-07,jue
 34,Riesgovital,RM,1,15,Jueves 07 de noviembre de 2019,2019-11-07,jue
 34,Riesgovital,Regiones,1,15,Jueves 07 de noviembre de 2019,2019-11-07,jue
-34,Fallecidos,RM,3,15,Jueves 07 de noviembre de 2019,2019-11-07,jue
-34,Fallecidos,Regiones,3,15,Jueves 07 de noviembre de 2019,2019-11-07,jue
+34,Fallecidos (acumulado),RM,3,15,Jueves 07 de noviembre de 2019,2019-11-07,jue
+34,Fallecidos (acumulado),Regiones,3,15,Jueves 07 de noviembre de 2019,2019-11-07,jue
 35,Atenciones de Urgencia (24h),RM,64,14,Miércoles 06 de noviembre de 2019,2019-11-06,mié
 35,Atenciones de Urgencia (24h),Regiones,124,14,Miércoles 06 de noviembre de 2019,2019-11-06,mié
 35,Pacientes Hospitalizados (24h),RM,3,14,Miércoles 06 de noviembre de 2019,2019-11-06,mié
@@ -347,8 +347,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 35,Pacientes Hospitalizados (actuales),Regiones,39,14,Miércoles 06 de noviembre de 2019,2019-11-06,mié
 35,Riesgovital,RM,1,14,Miércoles 06 de noviembre de 2019,2019-11-06,mié
 35,Riesgovital,Regiones,1,14,Miércoles 06 de noviembre de 2019,2019-11-06,mié
-35,Fallecidos,RM,3,14,Miércoles 06 de noviembre de 2019,2019-11-06,mié
-35,Fallecidos,Regiones,3,14,Miércoles 06 de noviembre de 2019,2019-11-06,mié
+35,Fallecidos (acumulado),RM,3,14,Miércoles 06 de noviembre de 2019,2019-11-06,mié
+35,Fallecidos (acumulado),Regiones,3,14,Miércoles 06 de noviembre de 2019,2019-11-06,mié
 36,Atenciones de Urgencia (24h),RM,86,13,Martes 05 de noviembre de 2019,2019-11-05,mar
 36,Atenciones de Urgencia (24h),Regiones,103,13,Martes 05 de noviembre de 2019,2019-11-05,mar
 36,Pacientes Hospitalizados (24h),RM,2,13,Martes 05 de noviembre de 2019,2019-11-05,mar
@@ -357,8 +357,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 36,Pacientes Hospitalizados (actuales),Regiones,41,13,Martes 05 de noviembre de 2019,2019-11-05,mar
 36,Riesgovital,RM,3,13,Martes 05 de noviembre de 2019,2019-11-05,mar
 36,Riesgovital,Regiones,1,13,Martes 05 de noviembre de 2019,2019-11-05,mar
-36,Fallecidos,RM,3,13,Martes 05 de noviembre de 2019,2019-11-05,mar
-36,Fallecidos,Regiones,3,13,Martes 05 de noviembre de 2019,2019-11-05,mar
+36,Fallecidos (acumulado),RM,3,13,Martes 05 de noviembre de 2019,2019-11-05,mar
+36,Fallecidos (acumulado),Regiones,3,13,Martes 05 de noviembre de 2019,2019-11-05,mar
 37,Atenciones de Urgencia (24h),RM,23,12,Domingo 03 de noviembre de 2019,2019-11-03,dom
 37,Atenciones de Urgencia (24h),Regiones,19,12,Domingo 03 de noviembre de 2019,2019-11-03,dom
 37,Pacientes Hospitalizados (24h),RM,1,12,Domingo 03 de noviembre de 2019,2019-11-03,dom
@@ -367,8 +367,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 37,Pacientes Hospitalizados (actuales),Regiones,52,12,Domingo 03 de noviembre de 2019,2019-11-03,dom
 37,Riesgovital,RM,3,12,Domingo 03 de noviembre de 2019,2019-11-03,dom
 37,Riesgovital,Regiones,2,12,Domingo 03 de noviembre de 2019,2019-11-03,dom
-37,Fallecidos,RM,3,12,Domingo 03 de noviembre de 2019,2019-11-03,dom
-37,Fallecidos,Regiones,3,12,Domingo 03 de noviembre de 2019,2019-11-03,dom
+37,Fallecidos (acumulado),RM,3,12,Domingo 03 de noviembre de 2019,2019-11-03,dom
+37,Fallecidos (acumulado),Regiones,3,12,Domingo 03 de noviembre de 2019,2019-11-03,dom
 38,Atenciones de Urgencia (24h),RM,67,11,Sábado 02 de noviembre de 2019,2019-11-02,sáb
 38,Atenciones de Urgencia (24h),Regiones,18,11,Sábado 02 de noviembre de 2019,2019-11-02,sáb
 38,Pacientes Hospitalizados (24h),RM,4,11,Sábado 02 de noviembre de 2019,2019-11-02,sáb
@@ -377,8 +377,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 38,Pacientes Hospitalizados (actuales),Regiones,53,11,Sábado 02 de noviembre de 2019,2019-11-02,sáb
 38,Riesgovital,RM,6,11,Sábado 02 de noviembre de 2019,2019-11-02,sáb
 38,Riesgovital,Regiones,3,11,Sábado 02 de noviembre de 2019,2019-11-02,sáb
-38,Fallecidos,RM,3,11,Sábado 02 de noviembre de 2019,2019-11-02,sáb
-38,Fallecidos,Regiones,3,11,Sábado 02 de noviembre de 2019,2019-11-02,sáb
+38,Fallecidos (acumulado),RM,3,11,Sábado 02 de noviembre de 2019,2019-11-02,sáb
+38,Fallecidos (acumulado),Regiones,3,11,Sábado 02 de noviembre de 2019,2019-11-02,sáb
 39,Atenciones de Urgencia (24h),RM,61,10,Viernes 01 de noviembre de 2019,2019-11-01,vie
 39,Atenciones de Urgencia (24h),Regiones,86,10,Viernes 01 de noviembre de 2019,2019-11-01,vie
 39,Pacientes Hospitalizados (24h),RM,10,10,Viernes 01 de noviembre de 2019,2019-11-01,vie
@@ -387,8 +387,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 39,Pacientes Hospitalizados (actuales),Regiones,55,10,Viernes 01 de noviembre de 2019,2019-11-01,vie
 39,Riesgovital,RM,6,10,Viernes 01 de noviembre de 2019,2019-11-01,vie
 39,Riesgovital,Regiones,3,10,Viernes 01 de noviembre de 2019,2019-11-01,vie
-39,Fallecidos,RM,3,10,Viernes 01 de noviembre de 2019,2019-11-01,vie
-39,Fallecidos,Regiones,3,10,Viernes 01 de noviembre de 2019,2019-11-01,vie
+39,Fallecidos (acumulado),RM,3,10,Viernes 01 de noviembre de 2019,2019-11-01,vie
+39,Fallecidos (acumulado),Regiones,3,10,Viernes 01 de noviembre de 2019,2019-11-01,vie
 40,Atenciones de Urgencia (24h),RM,61,9,Jueves 31 de octubre de 2019,2019-10-31,jue
 40,Atenciones de Urgencia (24h),Regiones,86,9,Jueves 31 de octubre de 2019,2019-10-31,jue
 40,Pacientes Hospitalizados (24h),RM,10,9,Jueves 31 de octubre de 2019,2019-10-31,jue
@@ -397,8 +397,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 40,Pacientes Hospitalizados (actuales),Regiones,55,9,Jueves 31 de octubre de 2019,2019-10-31,jue
 40,Riesgovital,RM,6,9,Jueves 31 de octubre de 2019,2019-10-31,jue
 40,Riesgovital,Regiones,3,9,Jueves 31 de octubre de 2019,2019-10-31,jue
-40,Fallecidos,RM,3,9,Jueves 31 de octubre de 2019,2019-10-31,jue
-40,Fallecidos,Regiones,3,9,Jueves 31 de octubre de 2019,2019-10-31,jue
+40,Fallecidos (acumulado),RM,3,9,Jueves 31 de octubre de 2019,2019-10-31,jue
+40,Fallecidos (acumulado),Regiones,3,9,Jueves 31 de octubre de 2019,2019-10-31,jue
 41,Atenciones de Urgencia (24h),RM,124,8,Miércoles 30 de octubre de 2019,2019-10-30,mié
 41,Atenciones de Urgencia (24h),Regiones,164,8,Miércoles 30 de octubre de 2019,2019-10-30,mié
 41,Pacientes Hospitalizados (24h),RM,16,8,Miércoles 30 de octubre de 2019,2019-10-30,mié
@@ -407,8 +407,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 41,Pacientes Hospitalizados (actuales),Regiones,58,8,Miércoles 30 de octubre de 2019,2019-10-30,mié
 41,Riesgovital,RM,13,8,Miércoles 30 de octubre de 2019,2019-10-30,mié
 41,Riesgovital,Regiones,3,8,Miércoles 30 de octubre de 2019,2019-10-30,mié
-41,Fallecidos,RM,3,8,Miércoles 30 de octubre de 2019,2019-10-30,mié
-41,Fallecidos,Regiones,3,8,Miércoles 30 de octubre de 2019,2019-10-30,mié
+41,Fallecidos (acumulado),RM,3,8,Miércoles 30 de octubre de 2019,2019-10-30,mié
+41,Fallecidos (acumulado),Regiones,3,8,Miércoles 30 de octubre de 2019,2019-10-30,mié
 42,Atenciones de Urgencia (24h),RM,124,7,Martes 29 de octubre de 2019,2019-10-29,mar
 42,Atenciones de Urgencia (24h),Regiones,164,7,Martes 29 de octubre de 2019,2019-10-29,mar
 42,Pacientes Hospitalizados (24h),RM,16,7,Martes 29 de octubre de 2019,2019-10-29,mar
@@ -417,8 +417,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 42,Pacientes Hospitalizados (actuales),Regiones,58,7,Martes 29 de octubre de 2019,2019-10-29,mar
 42,Riesgovital,RM,13,7,Martes 29 de octubre de 2019,2019-10-29,mar
 42,Riesgovital,Regiones,3,7,Martes 29 de octubre de 2019,2019-10-29,mar
-42,Fallecidos,RM,3,7,Martes 29 de octubre de 2019,2019-10-29,mar
-42,Fallecidos,Regiones,3,7,Martes 29 de octubre de 2019,2019-10-29,mar
+42,Fallecidos (acumulado),RM,3,7,Martes 29 de octubre de 2019,2019-10-29,mar
+42,Fallecidos (acumulado),Regiones,3,7,Martes 29 de octubre de 2019,2019-10-29,mar
 43,Atenciones de Urgencia (24h),RM,11,6,Lunes 28 de octubre de 2019,2019-10-28,lun
 43,Atenciones de Urgencia (24h),Regiones,73,6,Lunes 28 de octubre de 2019,2019-10-28,lun
 43,Pacientes Hospitalizados (24h),RM,1,6,Lunes 28 de octubre de 2019,2019-10-28,lun
@@ -427,8 +427,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 43,Pacientes Hospitalizados (actuales),Regiones,79,6,Lunes 28 de octubre de 2019,2019-10-28,lun
 43,Riesgovital,RM,11,6,Lunes 28 de octubre de 2019,2019-10-28,lun
 43,Riesgovital,Regiones,3,6,Lunes 28 de octubre de 2019,2019-10-28,lun
-43,Fallecidos,RM,3,6,Lunes 28 de octubre de 2019,2019-10-28,lun
-43,Fallecidos,Regiones,3,6,Lunes 28 de octubre de 2019,2019-10-28,lun
+43,Fallecidos (acumulado),RM,3,6,Lunes 28 de octubre de 2019,2019-10-28,lun
+43,Fallecidos (acumulado),Regiones,3,6,Lunes 28 de octubre de 2019,2019-10-28,lun
 44,Atenciones de Urgencia (24h),RM,25,5,Domingo 27 de octubre de 2019,2019-10-27,dom
 44,Atenciones de Urgencia (24h),Regiones,91,5,Domingo 27 de octubre de 2019,2019-10-27,dom
 44,Pacientes Hospitalizados (24h),RM,6,5,Domingo 27 de octubre de 2019,2019-10-27,dom
@@ -437,8 +437,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 44,Pacientes Hospitalizados (actuales),Regiones,82,5,Domingo 27 de octubre de 2019,2019-10-27,dom
 44,Riesgovital,RM,12,5,Domingo 27 de octubre de 2019,2019-10-27,dom
 44,Riesgovital,Regiones,4,5,Domingo 27 de octubre de 2019,2019-10-27,dom
-44,Fallecidos,RM,3,5,Domingo 27 de octubre de 2019,2019-10-27,dom
-44,Fallecidos,Regiones,3,5,Domingo 27 de octubre de 2019,2019-10-27,dom
+44,Fallecidos (acumulado),RM,3,5,Domingo 27 de octubre de 2019,2019-10-27,dom
+44,Fallecidos (acumulado),Regiones,3,5,Domingo 27 de octubre de 2019,2019-10-27,dom
 45,Atenciones de Urgencia (24h),RM,51,4,Sábado 26 de octubre de 2019,2019-10-26,sáb
 45,Atenciones de Urgencia (24h),Regiones,219,4,Sábado 26 de octubre de 2019,2019-10-26,sáb
 45,Pacientes Hospitalizados (24h),RM,8,4,Sábado 26 de octubre de 2019,2019-10-26,sáb
@@ -447,8 +447,8 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 45,Pacientes Hospitalizados (actuales),Regiones,104,4,Sábado 26 de octubre de 2019,2019-10-26,sáb
 45,Riesgovital,RM,17,4,Sábado 26 de octubre de 2019,2019-10-26,sáb
 45,Riesgovital,Regiones,4,4,Sábado 26 de octubre de 2019,2019-10-26,sáb
-45,Fallecidos,RM,3,4,Sábado 26 de octubre de 2019,2019-10-26,sáb
-45,Fallecidos,Regiones,3,4,Sábado 26 de octubre de 2019,2019-10-26,sáb
+45,Fallecidos (acumulado),RM,3,4,Sábado 26 de octubre de 2019,2019-10-26,sáb
+45,Fallecidos (acumulado),Regiones,3,4,Sábado 26 de octubre de 2019,2019-10-26,sáb
 46,Atenciones de Urgencia (24h),RM,63,3,Viernes 25 de octubre de 2019,2019-10-25,vie
 46,Atenciones de Urgencia (24h),Regiones,215,3,Viernes 25 de octubre de 2019,2019-10-25,vie
 46,Pacientes Hospitalizados (24h),RM,3,3,Viernes 25 de octubre de 2019,2019-10-25,vie
@@ -457,21 +457,21 @@ ID,evento,lugar,value,ID_order,fecha,Fecha,WeekDay
 46,Pacientes Hospitalizados (actuales),Regiones,101,3,Viernes 25 de octubre de 2019,2019-10-25,vie
 46,Riesgovital,RM,15,3,Viernes 25 de octubre de 2019,2019-10-25,vie
 46,Riesgovital,Regiones,5,3,Viernes 25 de octubre de 2019,2019-10-25,vie
-46,Fallecidos,RM,3,3,Viernes 25 de octubre de 2019,2019-10-25,vie
-46,Fallecidos,Regiones,3,3,Viernes 25 de octubre de 2019,2019-10-25,vie
+46,Fallecidos (acumulado),RM,3,3,Viernes 25 de octubre de 2019,2019-10-25,vie
+46,Fallecidos (acumulado),Regiones,3,3,Viernes 25 de octubre de 2019,2019-10-25,vie
 47,Atenciones de Urgencia (24h),RM,104,2,Jueves 24 de octubre de 2019,2019-10-24,jue
 47,Atenciones de Urgencia (24h),Regiones,302,2,Jueves 24 de octubre de 2019,2019-10-24,jue
 47,Pacientes Hospitalizados (24h),RM,10,2,Jueves 24 de octubre de 2019,2019-10-24,jue
 47,Pacientes Hospitalizados (24h),Regiones,12,2,Jueves 24 de octubre de 2019,2019-10-24,jue
 47,Riesgovital,RM,13,2,Jueves 24 de octubre de 2019,2019-10-24,jue
 47,Riesgovital,Regiones,7,2,Jueves 24 de octubre de 2019,2019-10-24,jue
-47,Fallecidos,RM,2,2,Jueves 24 de octubre de 2019,2019-10-24,jue
-47,Fallecidos,Regiones,3,2,Jueves 24 de octubre de 2019,2019-10-24,jue
+47,Fallecidos (acumulado),RM,2,2,Jueves 24 de octubre de 2019,2019-10-24,jue
+47,Fallecidos (acumulado),Regiones,3,2,Jueves 24 de octubre de 2019,2019-10-24,jue
 48,Atenciones de Urgencia (24h),RM,96,1,Miércoles 23 de octubre de 2019,2019-10-23,mié
 48,Atenciones de Urgencia (24h),Regiones,412,1,Miércoles 23 de octubre de 2019,2019-10-23,mié
 48,Pacientes Hospitalizados (24h),RM,14,1,Miércoles 23 de octubre de 2019,2019-10-23,mié
 48,Pacientes Hospitalizados (24h),Regiones,31,1,Miércoles 23 de octubre de 2019,2019-10-23,mié
 48,Riesgovital,RM,14,1,Miércoles 23 de octubre de 2019,2019-10-23,mié
 48,Riesgovital,Regiones,8,1,Miércoles 23 de octubre de 2019,2019-10-23,mié
-48,Fallecidos,RM,1,1,Miércoles 23 de octubre de 2019,2019-10-23,mié
-48,Fallecidos,Regiones,3,1,Miércoles 23 de octubre de 2019,2019-10-23,mié
+48,Fallecidos (acumulado),RM,1,1,Miércoles 23 de octubre de 2019,2019-10-23,mié
+48,Fallecidos (acumulado),Regiones,3,1,Miércoles 23 de octubre de 2019,2019-10-23,mié
