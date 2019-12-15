@@ -48,3 +48,11 @@ El codigo se puede encontrar en https://github.com/gorkang/2019-Chile
 ## Densidad de eventos
 
 [![](outputs/plot/LAST_plot_minsal_heatmap.png)](outputs/plot/LAST_plot_minsal_heatmap.png)
+
+
+# Datos cruzados
+
+## Carabineros y PDI vs Minsal
+
+[![](outputs/plot/LAST_plot_carabinerosPDI_minsal.png)](outputs/plot/LAST_plot_carabinerosPDI_minsal.png)
+

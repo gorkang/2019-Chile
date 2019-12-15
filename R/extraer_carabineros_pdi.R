@@ -29,19 +29,20 @@ DF = 1:2 %>%
          `Vehiculos policiales incendiados` = V9,
          `Ataques metro` = V10,
          `Ataques cuarteles` = V11) %>% 
-  filter(grepl("^[0-9]", Fecha))
+  filter(grepl("^[0-9]", Fecha)) %>% 
+  mutate(Fecha = as.Date(Fecha, "%d-%m-%Y")) %>% 
+  mutate_if(is.character,as.integer)
+
 
 # Guarda datos de tabla
 save_object(DF, "raw_data", "data")
 
 
 DF_plot = DF %>% 
-  mutate(WeekDay = as.factor(weekdays(as.Date(Fecha), abbreviate = TRUE)),
+  mutate(WeekDay = as.factor(weekdays(Fecha, abbreviate = TRUE)),
          WeekDay = forcats::fct_relevel(WeekDay, c("sáb", "dom", "lun", "mar", "mié", "jue", "vie"))) %>% 
   pivot_longer(2:11) %>% 
-  mutate(value = as.numeric(value),
-         Fecha = as.Date(Fecha, "%d-%m-%Y"),
-         tipo = 
+  mutate(tipo = 
            case_when(
              name %in% c("Eventos graves") ~ "Eventos graves",
              name %in% c("Funcionarios lesionados", "Civiles lesionados") ~ "Lesiones",
