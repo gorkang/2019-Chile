@@ -10,18 +10,18 @@ El codigo se puede encontrar en https://github.com/gorkang/2019-Chile
 
 ### Fuentes
 
-* Fuente PDF Carabineros y PDI: http://ddhh.minjusticia.gob.cl/informacion-sobre-la-situacion-del-pais-desde-el-19-de-octubre  
+* Fuente PDF Carabineros + PDI: http://ddhh.minjusticia.gob.cl/informacion-sobre-la-situacion-del-pais-desde-el-19-de-octubre  
 * Fuente Minsal: https://www.minsal.cl/reporte-de-lesionados-y-heridos/
 
 
 ### Datos extraidos 
 
-* [[Descargar CSV últimos datos PDI y Carabineros](outputs/data/LAST_raw_data.csv)]
+* [[Descargar CSV últimos datos PDI + Carabineros](outputs/data/LAST_raw_data.csv)]
 * [[Descargar CSV últimos datos Minsal](outputs/data/LAST_raw_data_minsal.csv)]
 
 ---  
 
-# Carabineros y PDI
+# Carabineros + PDI
 
 ## Evolución de eventos
 
@@ -32,10 +32,6 @@ El codigo se puede encontrar en https://github.com/gorkang/2019-Chile
 
 [![](outputs/plot/LAST_plot_global_heatmap.png)](outputs/plot/LAST_plot_global_heatmap.png)
 
-
-## Densidad de eventos por día de la semana
- 
-[![](outputs/plot/LAST_plot_heatmap.png)](outputs/plot/LAST_plot_heatmap.png)
 
 
 # Minsal
@@ -52,7 +48,6 @@ El codigo se puede encontrar en https://github.com/gorkang/2019-Chile
 
 # Datos cruzados
 
-## Carabineros y PDI vs Minsal
+## Carabineros + PDI vs Minsal
 
 [![](outputs/plot/LAST_plot_carabinerosPDI_minsal.png)](outputs/plot/LAST_plot_carabinerosPDI_minsal.png)
-
