@@ -1,25 +1,22 @@
-
 # Librerias -----------------------------------------------------------------------------------
 
-  library(dplyr)
-  library(forcats)
-  library(ggplot2)
-  library(purrr)
-  library(readr)
-  library(tidyr)
-  library(tabulizer)
-  library(rvest)
+library(dplyr)
+library(forcats)
+library(ggplot2)
+library(purrr)
+library(readr)
+library(tidyr)
+library(tabulizer)
+library(rvest)
 
+# Funciones comunes
 
-  # Funciones comunes
-  source("R/save_object.R")
-
+source("R/save_object.R")
 
 # Carabineros y PDI -------------------------------------------------------------
 
 source("R/extraer_carabineros_pdi.R")
 
-  
 # Minsal -------------------------------------------------------------
 
 source("R/extraer_minsal.R")
