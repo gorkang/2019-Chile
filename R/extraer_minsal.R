@@ -115,4 +115,4 @@ plot_minsal_heat <- DF_minsal_long %>%
   scale_fill_distiller(palette = "Blues", direction = 1) +
   coord_fixed()
 
-save_object(plot_minsal_heat, "plot_minsal_heatmap", "plot", height_plot = 4)
+save_object(plot_minsal_heat, "plot_minsal_global_heatmap", "plot", height_plot = 4)

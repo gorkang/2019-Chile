@@ -73,8 +73,8 @@ save_object(plot1, "plot_grouped", "plot")
 
 # PLOT heatmap ------------------------------------------------------------
 
-plot2 <- plot_heatmap(DF_plot)
-save_object(plot2, "plot_heatmap", "plot")
+# plot2 <- plot_heatmap(DF_plot)
+# save_object(plot2, "plot_heatmap", "plot")
 
 # PLOT global heatmap ------------------------------------------------------------
 
