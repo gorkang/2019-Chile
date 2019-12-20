@@ -20,3 +20,8 @@ source("R/extraer_carabineros_pdi.R")
 # Minsal -------------------------------------------------------------
 
 source("R/extraer_minsal.R")
+
+
+# Carabineros +   Minsal -------------------------------------------------------------
+
+source("R/carabinerosPDI_minsal.R")
