@@ -6,6 +6,6 @@ process_table_minsal <- function(list_element) {
   list_element_2 <- t(list_element)
   colnames(list_element_2) <- as.character(unlist(list_element_2[1, ]))
   list_element_2 <- list_element_2[-1, ]
-
-  list_element_2 %>% as_tibble()
+  
+  if (length(list_element) > 3)  list_element_2 %>% as_tibble()
 }
