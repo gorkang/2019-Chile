@@ -80,3 +80,9 @@ save_object(plot1, "plot_grouped", "plot")
 
 plot3 <- plot_global_heatmap(DF_plot)
 save_object(plot3, "plot_global_heatmap", "plot", height_plot = 5)
+
+
+# PLOT global heatmap - last 30 days ------------------------------------------------------------
+
+plot4 <- plot_global_heatmap(DF_plot %>% filter(Fecha >= as.Date(Sys.time (), "%d-%m-%Y") - 30))
+save_object(plot4, "plot_global_heatmap_30d", "plot", height_plot = 5)

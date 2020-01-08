@@ -1,4 +1,4 @@
-plot_global_heatmap <- function(DF) {
+plot_global_heatmap <- function(DF_plot) {
   DF_plot %>%
     drop_na() %>%
     group_by(name) %>%
