@@ -16,6 +16,10 @@ out1 <- extract_tables(source_pdf, method = "lattice")
 
 # Preparar datos ------------------------------------------------------------------------------
 
+# DF = out1[[1]] %>% as.data.frame()
+# names_of_rows = DF[1, ] %>% as.array() 
+# colnames(DF) = DF[1, ]
+
 DF <- 1:2 %>%
   map_df(~ out1[[.x]] %>% as_tibble()) %>%
   rename(
@@ -28,8 +32,8 @@ DF <- 1:2 %>%
     `Prisiones preventivas` = V7,
     `Buses incendiados` = V8,
     `Vehiculos policiales incendiados` = V9,
-    `Ataques metro` = V10,
-    `Ataques cuarteles` = V11
+    `Ataques metro` = V10
+    # `Ataques cuarteles` = V11
   ) %>%
   filter(grepl("^[0-9]", Fecha)) %>%
   mutate(Fecha = as.Date(Fecha, "%d-%m-%Y")) %>%
@@ -45,7 +49,7 @@ DF_plot <- DF %>%
     WeekDay = as.factor(weekdays(Fecha, abbreviate = TRUE)),
     WeekDay = forcats::fct_relevel(WeekDay, c("sáb", "dom", "lun", "mar", "mié", "jue", "vie"))
   ) %>%
-  pivot_longer(2:11) %>%
+  pivot_longer(2:(length(.) - 1)) %>%
   mutate(
     tipo =
       case_when(
