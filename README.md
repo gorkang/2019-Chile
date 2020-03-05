@@ -34,6 +34,6 @@ El codigo se puede encontrar en https://github.com/gorkang/2019-Chile
 
 ## Densidad de eventos - 30 dias
 
-[![](outputs/plot/LAST_plot_global_heatmap.png)](outputs/plot/LAST_plot_global_heatmap_30d.png)
+[![](outputs/plot/LAST_plot_global_heatmap_30d.png)](outputs/plot/LAST_plot_global_heatmap_30d.png)
 
 
