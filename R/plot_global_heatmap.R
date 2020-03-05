@@ -24,5 +24,7 @@ plot_global_heatmap <- function(DF_plot) {
       expand = c(0, 0)
     ) +
     scale_fill_distiller(palette = "Blues", direction = 1) +
-    coord_fixed()
+    # coord_fixed() +
+    coord_equal()
+  
 }

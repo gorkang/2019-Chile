@@ -83,7 +83,7 @@ save_object(plot1, "plot_grouped", "plot")
 # PLOT global heatmap ------------------------------------------------------------
 
 plot3 <- plot_global_heatmap(DF_plot)
-save_object(plot3, "plot_global_heatmap", "plot", height_plot = 5)
+save_object(plot3, "plot_global_heatmap", "plot", height_plot = 10, width_plot = 25)
 
 
 # PLOT global heatmap - last 30 days ------------------------------------------------------------
