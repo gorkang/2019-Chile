@@ -26,7 +26,7 @@ plot_grouped <- function(DF) {
       legend.justification = c(1, 0)
     ) +
     guides(col = guide_legend(nrow = 6, byrow = TRUE)) +
-    scale_x_date(date_labels = "%d-%b", date_breaks = "2 day", limits = as.Date(c(min(DF_plot$Fecha) - 1, max(DF_plot$Fecha) + 1)), expand = c(0, 0)) +
+    scale_x_date(date_labels = "%d-%b", date_breaks = "5 day", limits = as.Date(c(min(DF_plot$Fecha) - 1, max(DF_plot$Fecha) + 1)), expand = c(0, 0)) +
     labs(
       x = "",
       y = "número",

@@ -20,7 +20,7 @@ out1 <- extract_tables(source_pdf, method = "lattice")
 # names_of_rows = DF[1, ] %>% as.array() 
 # colnames(DF) = DF[1, ]
 
-DF <- 1:2 %>%
+DF <- 1:3 %>%
   map_df(~ out1[[.x]] %>% as_tibble()) %>%
   rename(
     Fecha = V1,
