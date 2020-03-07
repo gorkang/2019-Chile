@@ -4,6 +4,7 @@
 # Funciones ---------------------------------------------------------------
 
 source("R/plot_grouped.R")
+source("R/plot_grouped_monthly.R")
 source("R/plot_global_heatmap.R")
 source("R/plot_heatmap.R")
 
@@ -73,6 +74,9 @@ DF_plot <- DF %>%
 
 plot1 <- plot_grouped(DF_plot)
 save_object(plot1, "plot_grouped", "plot")
+
+plot1m <- plot_grouped_monthly(DF_plot)
+save_object(plot1m, "plot_grouped_monthly", "plot")
 
 
 # PLOT heatmap ------------------------------------------------------------
