@@ -29,7 +29,7 @@ El codigo se puede encontrar en https://github.com/gorkang/2019-Chile
 
 ## Evolución de eventos (promedio mensual)
 
-[![](outputs/plot/LAST_plot_grouped.png)](outputs/plot/LAST_plot_grouped_monthly.png)
+[![](outputs/plot/LAST_plot_grouped_monthly.png)](outputs/plot/LAST_plot_grouped_monthly.png)
 
 
 ## Densidad de eventos
